@@ -1,786 +1,398 @@
 #separator:tab
-#html:false
-kanelbull/e -en -ar	Zimtschnecke
-Zimtschnecke	kanelbull/e -en -ar
-läsk -en --	Limonade
-Limonade	läsk -en --
-baguette med skinka och tomater	Baguette mit Schinken und Tomaten
-Baguette mit Schinken und Tomaten	baguette med skinka och tomater
-baguette -n -r	Baguette
-Baguette	baguette -n -r
-ostfrall/a -an -or	Käsebrötchen
-Käsebrötchen	ostfrall/a -an -or
-kopp -en -ar	Tasse
-Tasse	kopp -en -ar
-kaffe -t	Kaffee
-Kaffee	kaffe -t
-chokladmuffins -en --	Schokoladenmuffin
-Schokoladenmuffin	chokladmuffins -en --
-bjud/a -er	einladen
-einladen	bjud/a -er
-bjuda på	zu etwas einladen
-zu etwas einladen	bjuda på
-samtal -et --	Gespräch
-Gespräch	samtal -et --
-skola, ska	Hier: wollen
-Hier: wollen	skola, ska
-Ska vi äta?	Wollen wir essen?
-Wollen wir essen?	Ska vi äta?
-ät/a, -er	essen
-essen	ät/a, -er
-matsäck, -en, -ar	Proviant
-Proviant	matsäck, -en, -ar
-med	mit
-mit	med
-mig	mich, mir
-mich, mir	mig
-hungrig	hungrig
-hungrig	hungrig
-Jag är hungrig.	Ich bin hungrig.
-Ich bin hungrig.	Jag är hungrig.
-vilja, vill	wollen
-wollen	vilja, vill
-smörgås, -en, -ar	belegtes Brot
-belegtes Brot	smörgås, -en, -ar
-frall/a, -n, -or	Brötchen
-Brötchen	frall/a, -n, -or
-En macka är alltid gott.	Ein Butterbrot schmeckt immer gut.
-Ein Butterbrot schmeckt immer gut.	En macka är alltid gott.
-alltid	immer
-immer	alltid
-ta, -r	nehmen
-nehmen	ta, -r
-drick/a, -er	trinken
-trinken	drick/a, -er
-Ja, tack.	Ja, bitten.
-Ja, bitten.	Ja, tack.
-Och något till?	Und etwas dazu?
-Und etwas dazu?	Och något till?
-kanske	vielleicht
-vielleicht	kanske
-Nej, tack.	Nein, danke.
-Nein, danke.	Nej, tack.
-Det är bra.	Das ist alles.
-Das ist alles.	Det är bra.
-Det är jättegott.	Es schmeckt sehr gut.
-Es schmeckt sehr gut.	Det är jättegott.
-Det smakar bre med mat nu.	Jetzt könnte ich etwas [zu Essen] vertragen
-Jetzt könnte ich etwas [zu Essen] vertragen	Det smakar bre med mat nu.
-smaka, -r	schmecken
-schmecken	smaka, -r
-mat, -en	Essen
-Essen	mat, -en
-nu	jetzt
-jetzt	nu
-stäm/ma, -mer	stimmen
-stimmen	stäm/ma, -mer
-mer	mehr
-mehr	mer
-javisst	ja sicher
-ja sicher	javisst
-livsmed/el, -let, --	Lebensmittel
-Lebensmittel	livsmed/el, -let, --
-god, gott	gut/lecker
-gut/lecker	god, gott
-nyttig, -t	gesund/nützlich
-gesund/nützlich	nyttig, -t
-saft, -en, -er	Saft/Sirup
-Saft/Sirup	saft, -en, -er
-bull/e, -en, -ar	Stück Gebäck, Schnecke, Semmel
-Stück Gebäck, Schnecke, Semmel	bull/e, -en, -ar
-fika, -t	Kaffetrinken
-Kaffetrinken	fika, -t
-lunch, -en, -er	Mittegessen
-Mittegessen	lunch, -en, -er
-bety/da, -der	bedeuten
-bedeuten	bety/da, -der
-detsamma som	dasselbe wie
-dasselbe wie	detsamma som
-korg, -en, -ar	Korb
-Korb	korg, -en, -ar
-ost, -en, -ar	Käse
-Käse	ost, -en, -ar
-rädis/a, -an, -or	Radieschen
-Radieschen	rädis/a, -an, -or
-skink/a, -an, or	Schinken
-Schinken	skink/a, -an, or
-tonfisk, -en, ar	Thunfisch
-Thunfisch	tonfisk, -en, ar
-räk/a, -an, or	Garnele
-Garnele	räk/a, -an, or
-ägg, -et, --	Ei
-Ei	ägg, -et, --
-kyckling, -en, -ar	Hähnchen
-Hähnchen	kyckling, -en, -ar
-potatissallad, -en, -er	Kartoffelsalat
-Kartoffelsalat	potatissallad, -en, -er
-potatis, -en, -ar	Kartoffel
-Kartoffel	potatis, -en, -ar
-päron, -et, --	Birne
-Birne	päron, -et, --
-banan, -en, -er	Banane
-Banane	banan, -en, -er
-jordgubb/e, -en, -ar	Erdbeere
-Erdbeere	jordgubb/e, -en, -ar
-inte	nicht
-nicht	inte
-frukost, -en, -ar	Frühstück
-Frühstück	frukost, -en, -ar
-dag, -en, -ar	Tag
-Tag	dag, -en, -ar
-dagens	des Tages (zB.: erste Mahlzeit des Tages)
-des Tages (zB.: erste Mahlzeit des Tages)	dagens
-första	der/die/das erste
-der/die/das erste	första
-måltid, -en, -er	Mahlzeit
-Mahlzeit	måltid, -en, -er
-lätt	leicht
-leicht	lätt
-mitt på dagen	in der Mitte des Tages
-in der Mitte des Tages	mitt på dagen
-huvudmåltid, -en, -er	Hauptmahlzeit
-Hauptmahlzeit	huvudmåltid, -en, -er
-middag, -en, -ar	warme Mahlzeit (Mittag/Abendessen)
-warme Mahlzeit (Mittag/Abendessen)	middag, -en, -ar
-de flesta [dom flesta]	die Meisten
-die Meisten	de flesta [dom flesta]
-på kvällen	am Abend
-am Abend	på kvällen
-kväll, -en, -ar	Abend
-Abend	kväll, -en, -ar
-klockan ... (18, 19, etc.)	um ... Uhr (18, 19, etc.)
-um ... Uhr (18, 19, etc.)	klockan ... (18, 19, etc.)
-kvällsmat, -en	leichtes Abendessen, Abendbrot
-leichtes Abendessen, Abendbrot	kvällsmat, -en
-till exempel	zum Beispiel
-zum Beispiel	till exempel
-te, -et	Tee
-Tee	te, -et
-festmåltid, -en, -er	Festessen
-Festessen	festmåltid, -en, -er
-viktig	wichtig
-wichtig	viktig
-social	sozial
-sozial	social
-institution, -en, -er	Institution
-Institution	institution, -en, -er
-att	dass
-dass	att
-paus, -en, -er	Pause
-Pause	paus, -en, -er
-dryck, -en, -er	Getränk
-Getränk	dryck, -en, -er
-annan	ein anderer, eine andere, ein anderes, andere
-ein anderer, eine andere, ein anderes, andere	annan
-tillsammans med	zusammen mit
-zusammen mit	tillsammans med
-familj, -en, -er	Familie
-Familie	familj, -en, -er
-eller	oder
-oder	eller
-kolleg/a, -an, -er, -or	Kollege
-Kollege	kolleg/a, -an, -er, -or
-kak/a, -an, -or	Plätzchen, Kuchen
-Plätzchen, Kuchen	kak/a, -an, -or
-morg/on, -onen, -nar	Morgen
-Morgen	morg/on, -onen, -nar
-typisk, -t	typisch
-typisch	typisk, -t
-svensk, -t	Schwedisch
-Schwedisch	svensk, -t
-när	wenn
-wenn	när
-(att) fika, -r	Kaffee trinken
-Kaffee trinken	(att) fika, -r
-tallrik, -en, -ar, -arna	Teller
-Teller	tallrik, -en, -ar, -arna
-yoghurt, -en, -ar, -arna	Joghurt
-Joghurt	yoghurt, -en, -ar, -arna
-filmjölk, -en	Sauer/Dickmilch
-Sauer/Dickmilch	filmjölk, -en
-fling/a, -an, -or, -orna	Flocken
-Flocken	fling/a, -an, -or, -orna
-bär, -et, --, -en	Beere
-Beere	bär, -et, --, -en
-ett par	ein paar
-ein paar	ett par
-mugg, -en, -ar, -arna	Becher
-Becher	mugg, -en, -ar, -arna
-ibland	manchmal
-manchmal	ibland
-skiv/a, -an, -or, -orna	Scheibe
-Scheibe	skiv/a, -an, -or, -orna
-knäckebröd, -et, --, -en	Knäckebrot
-Knäckebrot	knäckebröd, -et, --, -en
-marmelad, -en, -er, -erna	Marmelade
-Marmelade	marmelad, -en, -er, -erna
-juice, -n, -r, -rna	Fruchtsaft
-Fruchtsaft	juice, -n, -r, -rna
-krov, -en, -ar, -arna	Wurst
-Wurst	krov, -en, -ar, -arna
-bit, -en, ar, -arna	Stück
-Stück	bit, -en, ar, -arna
-lite	ein wenig
-ein wenig	lite
-mjölk, -en	Milch
-Milch	mjölk, -en
-så	so, deshalb
-so, deshalb	så
-kokt	gekocht (Adjektiv)
-gekocht (Adjektiv)	kokt
-sock/er, -ret, -er, -ren	Zucker
-Zucker	sock/er, -ret, -er, -ren
-grädde, -n	Sahne
-Sahne	grädde, -n
-gaff/el, -eln, -lar, -larna	Gabel
-Gabel	gaff/el, -eln, -lar, -larna
-kniv, -en, -ar, -arna	Messer
-Messer	kniv, -en, -ar, -arna
-salt, -et, -er, -erna	Salz
-Salz	salt, -et, -er, -erna
-servett, -en, -er, -erna	Serviette
-Serviette	servett, -en, -er, -erna
-sked, -en, -ar, -arna	Löffel
-Löffel	sked, -en, -ar, -arna
-Kan du ge mig ...?	Kannst du mir bitte ... geben?
-Kannst du mir bitte ... geben?	Kan du ge mig ...?
-(att) ge, -r, gav, gett/givit	geben
-geben	(att) ge, -r, gav, gett/givit
-porslin, -et	Porzellan / Geschirr
-Porzellan / Geschirr	porslin, -et
-(att) kosta, -r, -de, -t	kosten (Verb)
-kosten (Verb)	(att) kosta, -r, -de, -t
-rätt, -en, -er, -erna	Gericht (Essen)
-Gericht (Essen)	rätt, -en, -er, -erna
-dagens rätt	Tagesgericht
-Tagesgericht	dagens rätt
-maträtt, -en, -er, -erna	Gericht (Essen)
-Gericht (Essen)	maträtt, -en, -er, -erna
-som (Relativpronomen)	der, die, das (Relativpronomen)
-der, die, das (Relativpronomen)	som (Relativpronomen)
-(att) kunna, kan, kunde, kunnat	können (Verb)
-können (Verb)	(att) kunna, kan, kunde, kunnat
-kron/a, -an, -or, -orna	Krone (Währung & Gegenstand)
-Krone (Währung & Gegenstand)	kron/a, -an, -or, -orna
-(att) få, -r, fick, fått	dürfen, müssen, bekommen, erhalten, kriegen
-dürfen, müssen, bekommen, erhalten, kriegen	(att) få, -r, fick, fått
-bröd, -et, --, -en	Brot
-Brot	bröd, -et, --, -en
-smör, -et	Butter
-Butter	smör, -et
-valfri	beliebig, optional, zur freien Auswahl
-beliebig, optional, zur freien Auswahl	valfri
-lättöl, -et, --/-er, -en	Leichtbier
-Leichtbier	lättöl, -et, --/-er, -en
-mineralvatt/en, -net,	Mineralwasser
-Mineralwasser	mineralvatt/en, -net,
-kaffe på maten	Kaffe nach dem Essen
-Kaffe nach dem Essen	kaffe på maten
-billig	billig
-billig	billig
-om (Konjunktion)	wenn, falls (Konjunktion)
-wenn, falls (Konjunktion)	om (Konjunktion)
-mycket	viel
-viel	mycket
-tid, -en, -er, -erna	Zeit
-Zeit	tid, -en, -er, -erna
-(att) köp/a, -er, -te, -t	kaufen
-kaufen	(att) köp/a, -er, -te, -t
-något att äta	etwas zu essen
-etwas zu essen	något att äta
-gatukök, -et, --, -en	Imbiss(bude)
-Imbiss(bude)	gatukök, -et, --, -en
-där	dort
-dort	där
-hamburgar/e, -en, -e, -na	Hamburger (Essen)
-Hamburger (Essen)	hamburgar/e, -en, -e, -na
-stående	stehend
-stehend	stående
-veckodag, -en, -ar, -arna	Wochentag
-Wochentag	veckodag, -en, -ar, -arna
-fredag, -en, -ar, -arna	Freitag
-Freitag	fredag, -en, -ar, -arna
-lördag, -en, -ar, -arna	Samstag
-Samstag	lördag, -en, -ar, -arna
-måndag, -en, -ar, -arna	Montag
-Montag	måndag, -en, -ar, -arna
-onsdag, -en, -ar, -arna	Mittwoch
-Mittwoch	onsdag, -en, -ar, -arna
-söndag, -en, -ar, -arna	Sonntag
-Sonntag	söndag, -en, -ar, -arna
-tisdag, -en, -ar, -arna	Dienstag
-Dienstag	tisdag, -en, -ar, -arna
-torsdag, -en, -ar, -arna	Donnerstag
-Donnerstag	torsdag, -en, -ar, -arna
-veck/a, -an, -or, -orna	Woche
-Woche	veck/a, -an, -or, -orna
-varmrätt, -en, -er, -erna	warmes Gericht (Essen)
-warmes Gericht (Essen)	varmrätt, -en, -er, -erna
-sallad, -en, -er	Salat
-Salat	sallad, -en, -er
-inklusive	einschließlich / inklusiv
-einschließlich / inklusiv	inklusive
-måltidsdryck, -en, -er, -erna	Getränk zu den Mahlzeiten
-Getränk zu den Mahlzeiten	måltidsdryck, -en, -er, -erna
-Något mer?	Noch etwas?
-Noch etwas?	Något mer?
-vanlig	gewöhnlich, normal
-gewöhnlich, normal	vanlig
-Tack så mycket!	Vielen Dank!
-Vielen Dank!	Tack så mycket!
-(att) för/stå, -står, -od, -ått	verstehen (Verb)
-verstehen (Verb)	(att) för/stå, -står, -od, -ått
-lån, -et, --, -en	(das) Leihen, etwa Geliehenes
-(das) Leihen, etwa Geliehenes	lån, -et, --, -en
-senast (adverb)	zuletzt (Adverb)
-zuletzt (Adverb)	senast (adverb)
-hjälp, -en	Hilfe
-Hilfe	hjälp, -en
-ikväll	heute Abend
-heute Abend	ikväll
-lär/a, --, -de, -t	lernen
-lernen	lär/a, --, -de, -t
-ny	neu
-neu	ny
-spel, -et, --, -en	Spiel
-Spiel	spel, -et, --, -en
-huvud/stad, -en, -städer, -städerna	Hauptstadt
-Hauptstadt	huvud/stad, -en, -städer, -städerna
-(att) ligg/a, -er, låg, legat	liegen
-liegen	(att) ligg/a, -er, låg, legat
-vid	an, bei
-an, bei	vid
-Västkusten	die Westküste
-die Westküste	Västkusten
-Östersjön	die Ostsee
-die Ostsee	Östersjön
-vack/er, -ert, -ra	schön/hübsch
-schön/hübsch	vack/er, -ert, -ra
-läge, -t, -n, -na	Lage
-Lage	läge, -t, -n, -na
-internationell, -t, -a	international
-international	internationell, -t, -a
-företag, -et, --, -en	Unternehmen
-Unternehmen	företag, -et, --, -en
-som (Konjunktion)	wie (Konjunktion)
-wie (Konjunktion)	som (Konjunktion)
-gam/mal, -malt, -la	alt
-alt	gam/mal, -malt, -la
-lång, -t, -a	lang
-lang	lång, -t, -a
-histori/a, -an, -er, -erna	Geschichte (Historisch)
-Geschichte (Historisch)	histori/a, -an, -er, -erna
-trevlig, -t, -a	nett, schön
-nett, schön	trevlig, -t, -a
-ein trevlig stad att bo i	eine schöne Stadt zum Wohnen
-eine schöne Stadt zum Wohnen	ein trevlig stad att bo i
-(att) säg/a, -er, sa/sade, sagt	sagen
-sagen	(att) säg/a, -er, sa/sade, sagt
-många	viele
-viele	många
-intressant, --, -a	interessant
-interessant	intressant, --, -a
-sevärdhet, -en, -er, -erna	Sehenswürdigkeit
-Sehenswürdigkeit	sevärdhet, -en, -er, -erna
-skepp, -ett, --, -en	Schiff
-Schiff	skepp, -ett, --, -en
-samhälle, -t, -n, -na	Ortschaft/Ort, Gesellschaft/Volk
-Ortschaft/Ort, Gesellschaft/Volk	samhälle, -t, -n, -na
-stor, -t, -a	groß
-groß	stor, -t, -a
-mataffär, -en, -er, -erna	Lebensmittelgeschäft
-Lebensmittelgeschäft	mataffär, -en, -er, -erna
-varhus, -et, --, -en	Warenhaus
-Warenhaus	varhus, -et, --, -en
-vårdcentral, -en, -er, -erna	primäre medizinische Versorgung
-primäre medizinische Versorgung	vårdcentral, -en, -er, -erna
-apotek, -et, --, -en	Apotheke
-Apotheke	apotek, -et, --, -en
-bank, -en, -er, -erna	Bank (Geld & Sitzen)
-Bank (Geld & Sitzen)	bank, -en, -er, -erna
-parkeringsplats, -en, -er, -erna	Parkplatz
-Parkplatz	parkeringsplats, -en, -er, -erna
-bensinmack, -en, -ar, -arna	Tankstelle
-Tankstelle	bensinmack, -en, -ar, -arna
-bilverk/stad, -en, -städer, -städerna	Autowerkstatt
-Autowerkstatt	bilverk/stad, -en, -städer, -städerna
-liten, litet, små	klein
-klein	liten, litet, små
-kiosk, -en, -er, -erna	Kiosk
-Kiosk	kiosk, -en, -er, -erna
-station, -en, -er, -erna	Bahnhof
-Bahnhof	station, -en, -er, -erna
-kyrka, -n, -or, -orna	Kirche
-Kirche	kyrka, -n, -or, -orna
-(att) finnas, finns, fanns, funnits	vorhanden sein / bestehen / existieren
-vorhanden sein / bestehen / existieren	(att) finnas, finns, fanns, funnits
-det finns	es gibt
-es gibt	det finns
-invånar/e, -en, -e, -na	Einwohner
-Einwohner	invånar/e, -en, -e, -na
-läkar/e, -en, -e, -na	Arzt
-Arzt	läkar/e, -en, -e, -na
-sjö, -n, -ar, -arna	See
-See	sjö, -n, -ar, -arna
-badplats, -en, -er, -erna	Badeplatz
-Badeplatz	badplats, -en, -er, -erna
-till	nach
-nach	till
-mil, -en, --, -en	schwedische Meile (10km)
-schwedische Meile (10km)	mil, -en, --, -en
-inte så stor(t)	nicht besonders groß
-nicht besonders groß	inte så stor(t)
-i centrum	im Zentrum
-im Zentrum	i centrum
-utanför	außerhalb
-außerhalb	utanför
-(att) ligga vackert	schön gelegen sein
-schön gelegen sein	(att) ligga vackert
-lugn, -t, -a	ruhig
-ruhig	lugn, -t, -a
-i närheten av	in der Nähe von
-in der Nähe von	i närheten av
-någ/on, -ot, -ra	einer, eine, ein / jemand
-einer, eine, ein / jemand	någ/on, -ot, -ra
-Ja, det finns det.	Ja, das gibt es.
-Ja, das gibt es.	Ja, det finns det.
-Nej, det finns det inte.	Nein, das gibt es nicht.
-Nein, das gibt es nicht.	Nej, det finns det inte.
-Ja, det är det inte.	Ja, das ist es.
-Ja, das ist es.	Ja, det är det inte.
-Nej, det är det inte.	Nein, das ist es nicht.
-Nein, das ist es nicht.	Nej, det är det inte.
-Ja, det gör det.	Ja, das tut es.
-Ja, das tut es.	Ja, det gör det.
-Nej, det gör det inte.	Nein, das tut es nicht.
-Nein, das tut es nicht.	Nej, det gör det inte.
-krog, -en, -ar, -arna	Kneipe
-Kneipe	krog, -en, -ar, -arna
-teat/er, -rn, -rar, -rarna	Theater
-Theater	teat/er, -rn, -rar, -rarna
-(att) upplev/a, -er, -de, -t	erleben (Verb)
-erleben (Verb)	(att) upplev/a, -er, -de, -t
-stor/stad, -en, -städer, -städerna	Großstadt
-Großstadt	stor/stad, -en, -städer, -städerna
-hier	här
-här	hier
-allt	alles
-alles	allt
-skärgård, -en, -ar, -arna	Schärengarten (Inselgruppe bei Stockholm)
-Schärengarten (Inselgruppe bei Stockholm)	skärgård, -en, -ar, -arna
-centr/um, -umet, -a, -arna	Zentrum
-Zentrum	centr/um, -umet, -a, -arna
-fin, -t, -a	fein
-fein	fin, -t, -a
-gata, -n, -or, -orna	Straße
-Straße	gata, -n, -or, -orna
-mysig, -t, -a	gemütlich
-gemütlich	mysig, -t, -a
-bra	gut
-gut	bra
-park, -en, -er, -erna	Park
-Park	park, -en, -er, -erna
-naturligtvis	natürlich
-natürlich	naturligtvis
-utbud, -et, --, -en	Angebot
-Angebot	utbud, -et, --, -en
-kultur, -en, -er, -erna	Kultur
-Kultur	kultur, -en, -er, -erna
-nöje, -t, -n, -???	Vergnügen
-Vergnügen	nöje, -t, -n, -???
-sport, -en, -er, -erna	Sport
-Sport	sport, -en, -er, -erna
-nöjespark, -en, -er, -erna	Vergnügungspark
-Vergnügungspark	nöjespark, -en, -er, -erna
-hamn, -en, -ar, -arna	Hafen
-Hafen	hamn, -en, -ar, -arna
-centralstation, -en, -er, -erna	Hauptbahnhof
-Hauptbahnhof	centralstation, -en, -er, -erna
-tågförbindelse, -n, -r, -rna	Zugverbindung
-Zugverbindung	tågförbindelse, -n, -r, -rna
-men	aber
-aber	men
-skog, -en, -ar, -arna	Wald
-Wald	skog, -en, -ar, -arna
-modern, -t, -a	modern
-modern	modern, -t, -a
-din, ditt, dina	dein, deine
-dein, deine	din, ditt, dina
-min, mitt, mina	mein, meine
-mein, meine	min, mitt, mina
-norra	nördlich
-nördlich	norra
-södra	südlich
-südlich	södra
-västra	westlich
-westlich	västra
-östra	östlich
-östlich	östra
-den	er, sie, es
-er, sie, es	den
-mittemot	gegenüber
-gegenüber	mittemot
-personlig, -t, -a	persönlich
-persönlich	personlig, -t, -a
-service, -n	Service
-Service	service, -n
-information, -en, -er, -erna	Information
-Information	information, -en, -er, -erna
-om (Präposition)	über (Präposition)
-über (Präposition)	om (Präposition)
-sightseeing, -en, -ar, -arna	Sightseeing
-Sightseeing	sightseeing, -en, -ar, -arna
-utflykt, -en, -er, -erna	Ausflug
-Ausflug	utflykt, -en, -er, -erna
-(att) boka, -r, -de, -t	buchen
-buchen	(att) boka, -r, -de, -t
-samt	und, sowie
-und, sowie	samt
-Stockholmskortet	Stockholmkarte
-Stockholmkarte	Stockholmskortet
-evenmang, -et, --, -en	Veranstaltung
-Veranstaltung	evenmang, -et, --, -en
-biljet, -en, -er, -erna	Eintrittskarte
-Eintrittskarte	biljet, -en, -er, -erna
-(att) hyr/a, --, -de, -t	mieten
-mieten	(att) hyr/a, --, -de, -t
-Vad finns det för ...?	Welch/er, -e, -es, -e ... gibt es?
-Welch/er, -e, -es, -e ... gibt es?	Vad finns det för ...?
-(att) rekommendera, -r, -de, -t	empfehlen
-empfehlen	(att) rekommendera, -r, -de, -t
-över (Adverb/Präposition)	über, von
-über, von	över (Adverb/Präposition)
-guidad visning	Führung
-Führung	guidad visning
-utflyktsmål, -et, --, -en	Ausflugsziel
-Ausflugsziel	utflyktsmål, -et, --, -en
-annons, -en, -er, -erna	Anzeige
-Anzeige	annons, -en, -er, -erna
-(att) titta, -r, -de, -t	schauen, ansehen
-schauen, ansehen	(att) titta, -r, -de, -t
-(att) koppla, -r, -de, -t av	entspannen
-entspannen	(att) koppla, -r, -de, -t av
-kaffebön/a, -an, -or, -orna	Kaffeebohne
-Kaffeebohne	kaffebön/a, -an, -or, -orna
-charmig, -t, -a	bezaubernd, reizend
-bezaubernd, reizend	charmig, -t, -a
-perfekt, --, -a	perfekt
-perfekt	perfekt, --, -a
-ställe, -t, -n, -na	Platz, Ort
-Platz, Ort	ställe, -t, -n, -na
-besök, -et, --, -en	Besuch
-Besuch	besök, -et, --, -en
-värld, -en, -ar, -arna	Welt
-Welt	värld, -en, -ar, -arna
-friluftsmuse/um, -et, -er, -erna	Freiluftmuseum
-Freiluftmuseum	friluftsmuse/um, -et, -er, -erna
-världens äldsta friluftsmuseum	das älteste Freiluftmuseum der Welt
-das älteste Freiluftmuseum der Welt	världens äldsta friluftsmuseum
-både ... och	sowohl ... als auch
-sowohl ... als auch	både ... och
-stockholmar/e, -en, -e, -arna	Stockholmer (Einwohner)
-Stockholmer (Einwohner)	stockholmar/e, -en, -e, -arna
-besökar/e, -en, -e, -arna	Besucher
-Besucher	besökar/e, -en, -e, -arna
-hit	hierher
-hierher	hit
-historisk, -t, -a	historisch
-historisch	historisk, -t, -a
-miniatyr, -en, -er, -erna	Miniatur
-Miniatur	miniatyr, -en, -er, -erna
-egen, eget, egna	eigen
-eigen	egen, eget, egna
-picknick, -en, -ar, -arna	Picknick
-Picknick	picknick, -en, -ar, -arna
-butik, -en, -er, -erna	Geschäft, Laden
-Geschäft, Laden	butik, -en, -er, -erna
-spännande	spannend
-spannend	spännande
-sortiment, -et, --, -en	Sortiment, Auswahl
-Sortiment, Auswahl	sortiment, -et, --, -en
-olika	verschiedene
-verschiedene	olika
-pris, -et, -er, -erna	Preis
-Preis	pris, -et, -er, -erna
-foto, -t, -n, -na	Foto
-Foto	foto, -t, -n, -na
-vykort, -et, --, -en	Ansichtskarte
-Ansichtskarte	vykort, -et, --, -en
-present, -en, -er, -erna	Geschenk
-Geschenk	present, -en, -er, -erna
-(att) sälj/a, -er, sålde, sålt	verkaufen
-verkaufen	(att) sälj/a, -er, sålde, sålt
-katalog, -en, -er, -erna	Katalog
-Katalog	katalog, -en, -er, -erna
-(att) för/låta, -låter, -lät, -låtit	entschuldigen, verzeihen
-entschuldigen, verzeihen	(att) för/låta, -låter, -lät, -låtit
-(att) ursäkta, -r, -de, -t	entschuldigen
-entschuldigen	(att) ursäkta, -r, -de, -t
-Kan du säga mig?	Kannst du mir sagen?
-Kannst du mir sagen?	Kan du säga mig?
-(att) gå, -r, gick, gått	gehen
-gehen	(att) gå, -r, gick, gått
-rackt fram	geradeaus
-geradeaus	rackt fram
-sedan	dann, anschließend
-dann, anschließend	sedan
-ta till höger	rechts abbiegen
-rechts abbiegen	ta till höger
-(till) höger	(nach) rechts
-(nach) rechts	(till) höger
-andra	der, die, das zweite
-der, die, das zweite	andra
-tredje	der, die, das dritte
-der, die, das dritte	tredje
-brevid	neben
-neben	brevid
-Tack så mycket.	Vielen Dank.
-Vielen Dank.	Tack så mycket.
-hur	wie
-wie	hur
-(till) vänster	(nach) links
-(nach) links	(till) vänster
-(att) fort/sätta, -sätter, -satte, -satt	fortsetzen, weitergehen
-fortsetzen, weitergehen	(att) fort/sätta, -sätter, -satte, -satt
-trafikljus, -et, --, -en	Verkehrsampel
-Verkehrsampel	trafikljus, -et, --, -en
-Ett ögonblick!	Einen Augenblick!
-Einen Augenblick!	Ett ögonblick!
-Just precis.	Genau.
-Genau.	Just precis.
-Tack ska du ha.	Vielen Dank.
-Vielen Dank.	Tack ska du ha.
-i närheten	in der Nähe
-in der Nähe	i närheten
-(att) kör/a, --, -de, -t	fahren
-fahren	(att) kör/a, --, -de, -t
-först	zuerst
-zuerst	först
-där borta	dort drüben
-dort drüben	där borta
-borta	fort, weg
-fort, weg	borta
-korsning, -en, -ar, -arna	Kreuzung
-Kreuzung	korsning, -en, -ar, -arna
-(att) för/stå, -står, -stod, -stått	verstehen
-verstehen	(att) för/stå, -står, -stod, -stått
-en gång till	noch einmal
-noch einmal	en gång till
-efter	nach
-nach	efter
-(att) beskriv/a, -er, beskrev, -it	beschreiben
-beschreiben	(att) beskriv/a, -er, beskrev, -it
-hem, -met, --, -men	Haus, Heim
-Haus, Heim	hem, -met, --, -men
-adress, -en, -er, -erna	Adresse
-Adresse	adress, -en, -er, -erna
-postnum/mer, -ret, -mer, -merna	Postleitzahl
-Postleitzahl	postnum/mer, -ret, -mer, -merna
-Jag bor på Biskopsgatan.	Ich wohne in Biskopsgatan.
-Ich wohne in Biskopsgatan.	Jag bor på Biskopsgatan.
-på	(hier:) in
-(hier:) in	på
-Vad har du för postnummer?	Was ist deine Postleitzahl?
-Was ist deine Postleitzahl?	Vad har du för postnummer?
-bokstav, -en, -stäver, -stäverna	Buchstabe
-Buchstabe	bokstav, -en, -stäver, -stäverna
-(att) uttala, -r, -de, -t	aussprechen
-aussprechen	(att) uttala, -r, -de, -t
-mynt, -et, --, -en	Münze
-Münze	mynt, -et, --, -en
-från	ab
-ab	från
-kalvkött, -et, --, -en	Kalbfleisch
-Kalbfleisch	kalvkött, -et, --, -en
-dillsås, -en, -er, -erna	Dillsauce
-Dillsauce	dillsås, -en, -er, -erna
-grönsakssopp/a, -an, -or, -orna	Gemüsesuppe
-Gemüsesuppe	grönsakssopp/a, -an, -or, -orna
-pannkak/a, -an, -or	Pfannkuchen
-Pfannkuchen	pannkak/a, -an, -or
-pannbiff, -en, -ar, -arna	Hackbeef
-Hackbeef	pannbiff, -en, -ar, -arna
-lök, -en, -ar, -arna	Zwiebel
-Zwiebel	lök, -en, -ar, -arna
-pytt i pann/a, -an, -or, -orna	traditionelles Resteessen
-traditionelles Resteessen	pytt i pann/a, -an, -or, -orna
-rödbet/a, -an, -or, -orna	Rote Bete
-Rote Bete	rödbet/a, -an, -or, -orna
-stekt, --, -a	gebraten
-gebraten	stekt, --, -a
-fisk, -en, -ar, -arna	Fisch
-Fisch	fisk, -en, -ar, -arna
-grönsak, -en, -er, -erna	Gemüse
-Gemüse	grönsak, -en, -er, -erna
-stäng, stängt, stängda	geschlossen
-geschlossen	stäng, stängt, stängda
-påtår, -en, -ar, -arna	"zweites Einschenken (""free refills"")"
-"zweites Einschenken (""free refills"")"	påtår, -en, -ar, -arna
-Vad har du för en rätt?	Was für ein Gericht hast du?
-Was für ein Gericht hast du?	Vad har du för en rätt?
-på onsdag	am Mittwoch
-am Mittwoch	på onsdag
-falukorv, -en, -ar, -arna	eine Art Fleischwurst
-eine Art Fleischwurst	falukorv, -en, -ar, -arna
-meny, -n, -er, -erna	Speisekarte, Menü
-Speisekarte, Menü	meny, -n, -er, -erna
-(att) beställ/a, -er, -de, -t	bestellen
-bestellen	(att) beställ/a, -er, -de, -t
-gäst, -en, -er, -erna	Gast
-Gast	gäst, -en, -er, -erna
-Kan jag få ...	Ich hätte gerne ...
-Ich hätte gerne ...	Kan jag få ...
-Jag vill ha ...	Ich hätte gern ... / Ich möchte ...
-Ich hätte gern ... / Ich möchte ...	Jag vill ha ...
-sopp/a, -n, -or, -orna	Suppe
-Suppe	sopp/a, -n, -or, -orna
-lättöl, -en	"ein Leichtbier (cave: nur in der Bedeutung ""eine Portion Leichtbier"" ein en-Wort!)"
-"ein Leichtbier (cave: nur in der Bedeutung ""eine Portion Leichtbier"" ein en-Wort!)"	lättöl, -en
-ris, -et, --, -en	Reis
-Reis	ris, -et, --, -en
-currysås, -en, -er, -erna	Currysauce
-Currysauce	currysås, -en, -er, -erna
-past/a, -an, -or, -orna	Nudel
-Nudel	past/a, -an, -or, -orna
-köttfärs, -en, -er, -erna	Hackfleisch
-Hackfleisch	köttfärs, -en, -er, -erna
-appeljuice, -n, -r, -rna	Apfelsaft
-Apfelsaft	appeljuice, -n, -r, -rna
-(att) betala, -r, -de, -t	bezahlen
-bezahlen	(att) betala, -r, -de, -t
-grilla/d, -t, -de	gegrillt
-gegrillt	grilla/d, -t, -de
-lingon, -et, --, -en	Preiselbeere
-Preiselbeere	lingon, -et, --, -en
-lax, -en, -ar, -arna	Lachs
-Lachs	lax, -en, -ar, -arna
-majonnäs, -en, -er, -erna	Mayonnaise
-Mayonnaise	majonnäs, -en, -er, -erna
-vatt/en, -net	Wasser
-Wasser	vatt/en, -net
-lektion, -en, -er, -erna	Unterrichtsstunde, Lektion
-Unterrichtsstunde, Lektion	lektion, -en, -er, -erna
-skön, -t, -a	schön, hübsch
-schön, hübsch	skön, -t, -a
-(att) sköt/a, -er, -te, -t	pflegen
-pflegen	(att) sköt/a, -er, -te, -t
-(sjö)sjuk, -t, -a	(see)krank
-(see)krank	(sjö)sjuk, -t, -a
-sjöman, -nen, --, -nen	Seemann
-Seemann	sjöman, -nen, --, -nen
-bördiga åkrar	fruchtbare Äcker
-fruchtbare Äcker	bördiga åkrar
-smörgåsbord, -et, --, -en	Buffet
-Buffet	smörgåsbord, -et, --, -en
-sill, -en, -ar, -arna	Hering
-Hering	sill, -en, -ar, -arna
-grava/d, -t, -de	gebeizt
-gebeizt	grava/d, -t, -de
-skaldjur, -et, --, -en	Krustentier
-Krustentier	skaldjur, -et, --, -en
-Janssons frestelse	"""Janssons Versuchung"" (Auflauf aus Kartoffeln, Zwiebeln und Anchovis)"
-"""Janssons Versuchung"" (Auflauf aus Kartoffeln, Zwiebeln und Anchovis)"	Janssons frestelse
-fläsk, -et	Speck
-Speck	fläsk, -et
-hemlaga/d, -t, -de	hausgemacht, selbstgemacht
-hausgemacht, selbstgemacht	hemlaga/d, -t, -de
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+yvNX-mkw0`	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kanelbull/e -en -ar	Zimtschnecke	
+FY,qaI~3sV	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	läsk -en --	Limonade	
+s4`g68>gEG	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	baguette med skinka och tomater	Baguette mit Schinken und Tomaten	
+"JK4#GHOAaS"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	baguette -n -r	Baguette	
+oZneFH~1o%	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	ostfrall/a -an -or	Käsebrötchen	
+s@Dw/(iaL*	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kopp -en -ar	Tasse	
+q7p3rz,u!b	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kaffe -t	Kaffee	
+v@N3~b,5@M	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	chokladmuffins -en --	Schokoladenmuffin	
+Pi-$77=`Ep	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	bjud/a -er	einladen	
+o$0xPY::_G	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	bjuda på	zu etwas einladen	
+v7v{OVlIgK	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	samtal -et --	Gespräch	
+P&T>+!qO4j	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	skola, ska	Hier: wollen	
+i]h8]cn~le	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Ska vi äta?	Wollen wir essen?	
+"p]&3`!TT1#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	ät/a, -er	essen	
+oWdA)t0n6l	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	matsäck, -en, -ar	Proviant	
+i2n~UmNU>|	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	med	mit	
+jJ|nDrolIk	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	mig	mich, mir	
+E/4Oj?V^$|	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	hungrig	hungrig	
+MHJ{,.+K}t	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Jag är hungrig.	Ich bin hungrig.	
+E_.z{O@sV?	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	vilja, vill	wollen	
+DbA{e+cFH1	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	smörgås, -en, -ar	belegtes Brot	
+G@q0exon^Z	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	frall/a, -n, -or	Brötchen	
+MJUE=Y.cX:	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	En macka är alltid gott.	Ein Butterbrot schmeckt immer gut.	
+A2*8K~5Qps	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	alltid	immer	
+h8/jWB]|lH	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	ta, -r	nehmen	
+Aq:LEZIXev	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	drick/a, -er	trinken	
+QQE57F_]4F	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Ja, tack.	Ja, bitten.	
+Nr(w?g~Pma	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Och något till?	Und etwas dazu?	
+"yK;|7#^~li"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kanske	vielleicht	
+GEd_;9f;T[	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Nej, tack.	Nein, danke.	
+Dh6HZvTJ&C	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Det är bra.	Das ist alles.	
+"QmYnH^#~13"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Det är jättegott.	Es schmeckt sehr gut.	
+bvAa$CaP5S	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Det smakar bre med mat nu.	Jetzt könnte ich etwas [zu Essen] vertragen	
+"dX_a#)XZA4"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	smaka, -r	schmecken	
+OuSYS@0hf	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	mat, -en	Essen	
+DXR,i_v<rG	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	nu	jetzt	
+lMKOTj}d`l	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	stäm/ma, -mer	stimmen	
+D~E?0J1lQ^	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	mer	mehr	
+qG`5*T*$`I	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	javisst	ja sicher	
+DYW0_E?p3>	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	livsmed/el, -let, --	Lebensmittel	
+eR:=Cui@4r	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	god, gott	gut/lecker	
+tg=UJRPFwr	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	nyttig, -t	gesund/nützlich	
+l7,!EzWo>!	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	saft, -en, -er	Saft/Sirup	
+"x*c#LPkg0O"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	bull/e, -en, -ar	Stück Gebäck, Schnecke, Semmel	
+v?8Z}_}s_W	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	fika, -t	Kaffetrinken	
+yLa3XzX,Yx	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lunch, -en, -er	Mittegessen	
+KDc>AS,^24	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	bety/da, -der	bedeuten	
+lY[Sa5x(`*	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	detsamma som	dasselbe wie	
+vwG=xuk*50	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	korg, -en, -ar	Korb	
+sLR7.dn.6}	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	ost, -en, -ar	Käse	
+DO7;<j@x5`	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	rädis/a, -an, -or	Radieschen	
+vnoA8y[B-f	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	skink/a, -an, or	Schinken	
+"po#X~Id$DR"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	tonfisk, -en, ar	Thunfisch	
+Hh,bJ6jz8l	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	räk/a, -an, or	Garnele	
+"gG.#p2ih$c"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	ägg, -et, --	Ei	
+C2)F=~O{DU	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kyckling, -en, -ar	Hähnchen	
+"z]~n%=Pd#^"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	potatissallad, -en, -er	Kartoffelsalat	
+di!^KR@T!A	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	potatis, -en, -ar	Kartoffel	
+nNaDIYt4Eq	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	päron, -et, --	Birne	
+yX^fXN+p$8	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	banan, -en, -er	Banane	
+zM0.`3F36!	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	jordgubb/e, -en, -ar	Erdbeere	
+tx81MNw>2E	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	inte	nicht	
+J3Es=l8%DM	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	frukost, -en, -ar	Frühstück	
+EtV`N*[f{)	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	dag, -en, -ar	Tag	
+"o#TX*{YHL("	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	dagens	des Tages (zB.: erste Mahlzeit des Tages)	
+tA>FCY:O(m	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	första	der/die/das erste	
+t*[~y8Rrib	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	måltid, -en, -er	Mahlzeit	
+w|^nui8~T4	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lätt	leicht	
+v7`&bb`dBW	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	mitt på dagen	in der Mitte des Tages	
+eQY6%Hy.r	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	huvudmåltid, -en, -er	Hauptmahlzeit	
+p>(aS9Laxq	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	middag, -en, -ar	warme Mahlzeit (Mittag/Abendessen)	
+iiZYod1a%6	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	de flesta [dom flesta]	die Meisten	
+bJvT,MmA(P	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	på kvällen	am Abend	
+y9]5gx;PD}	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kväll, -en, -ar	Abend	
+eTRA0fc,f9	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	klockan ... (18, 19, etc.)	um ... Uhr (18, 19, etc.)	
+"i.e<]G#/XR"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kvällsmat, -en	leichtes Abendessen, Abendbrot	
+P!PL`c_|mc	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	till exempel	zum Beispiel	
+M&THm*]>bl	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	te, -et	Tee	
+JfVe9Y%,ue	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	festmåltid, -en, -er	Festessen	
+oOIV;,r:X1	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	viktig	wichtig	
+KK*s~U,|De	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	social	sozial	
+OPOgaO(8k}	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	institution, -en, -er	Institution	
+nx8x8Vh|1]	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	att	dass	
+"DM0ld[R58#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	paus, -en, -er	Pause	
+u+_P4Z8&hj	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	dryck, -en, -er	Getränk	
+PA!o,e@!~n	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	annan	ein anderer, eine andere, ein anderes, andere	
+zuULJ@c%rI	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	tillsammans med	zusammen mit	
+"DaxEL`wTQ#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	familj, -en, -er	Familie	
+dp|X[WGJS3	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	eller	oder	
+bDbyKzbB(o	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kolleg/a, -an, -er, -or	Kollege	
+B^?uCLTy<6	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kak/a, -an, -or	Plätzchen, Kuchen	
+riR*plJ*M.	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	morg/on, -onen, -nar	Morgen	
+dhir8Q4ys	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	typisk, -t	typisch	
+M,?u^3Uj^3	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	svensk, -t	Schwedisch	
+ha|K^Sh~y~	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	när	wenn	
+x4uUh{huU{	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(att) fika, -r	Kaffee trinken	
+JtJQTJz&JU	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	tallrik, -en, -ar, -arna	Teller	
+oTiW7GKEEW	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	yoghurt, -en, -ar, -arna	Joghurt	
+ev/=qlI04	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	filmjölk, -en	Sauer/Dickmilch	
+ukYtnygZmk	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	fling/a, -an, -or, -orna	Flocken	
+seCE`Bc3bh	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	bär, -et, --, -en	Beere	
+EpSr@Ee`?~	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	ett par	ein paar	
+n>=2~KROtX	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	mugg, -en, -ar, -arna	Becher	
+rOd@I]6@*a	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	ibland	manchmal	
+tqHp5DdGMS	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	skiv/a, -an, -or, -orna	Scheibe	
+9at6}y3|6	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	knäckebröd, -et, --, -en	Knäckebrot	
+FL;*D!$UD^	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	marmelad, -en, -er, -erna	Marmelade	
+w$eBjIz&q3	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	juice, -n, -r, -rna	Fruchtsaft	
+zjYsA,5q73	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	krov, -en, -ar, -arna	Wurst	
+AFp~,buJPi	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	bit, -en, ar, -arna	Stück	
+m*&/l&*MvL	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lite	ein wenig	
+rs8}*-`$s*	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	mjölk, -en	Milch	
+k8a|q@8ig1	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	så	so, deshalb	
+P,w.14zDl	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kokt	gekocht (Adjektiv)	
+l_J-$)`A<o	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	sock/er, -ret, -er, -ren	Zucker	
+Pd)L$ci/(k	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	grädde, -n	Sahne	
+AgXjoCfJ.^	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	gaff/el, -eln, -lar, -larna	Gabel	
+GaqGl]=]@,	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kniv, -en, -ar, -arna	Messer	
+EOkQ;MYgCI	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	salt, -et, -er, -erna	Salz	
+i7z{!XfH}n	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	servett, -en, -er, -erna	Serviette	
+ez?2B3^HS2	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	sked, -en, -ar, -arna	Löffel	
+F=$QjHUVgz	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Kan du ge mig ...?	Kannst du mir bitte ... geben?	
+"qmAKM#gpqv"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(att) ge, -r, gav, gett/givit	geben	
+Hnhm~l]Mi;	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	porslin, -et	Porzellan / Geschirr	
+y<`4?F;sQ]	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(att) kosta, -r, -de, -t	kosten (Verb)	
+n722E>1VZ(	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	rätt, -en, -er, -erna	Gericht (Essen)	
+PF@D$Eqb>i	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	dagens rätt	Tagesgericht	
+IDj{Q,<ttu	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	maträtt, -en, -er, -erna	Gericht (Essen)	
+J(w8E]6Q>v	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	som (Relativpronomen)	der, die, das (Relativpronomen)	
+q<jQ3TA)W6	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(att) kunna, kan, kunde, kunnat	können (Verb)	
+KDR3:}<nFp	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kron/a, -an, -or, -orna	Krone (Währung &amp; Gegenstand)	
+xj!5ap~:o%	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(att) få, -r, fick, fått	dürfen, müssen, bekommen,&nbsp;erhalten, kriegen	
+G$Hb{;aN+P	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	bröd, -et, --, -en	Brot	
+vvyy@9sIA7	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	smör, -et	Butter	
+dfupa5CN8{	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	valfri	beliebig, optional, zur freien Auswahl	
+cF8xc{K&?[	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lättöl, -et, --/-er, -en	Leichtbier	
+"h7#%id[g$L"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	mineralvatt/en, -net,	Mineralwasser	
+Cxx%8s]BY^	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kaffe på maten	Kaffe nach dem Essen	
+f)Q]BhNz6f	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	billig	billig	
+"NM,O`9t#&#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	om (Konjunktion)	wenn, falls&nbsp;(Konjunktion)	
+xL37EpZ]qv	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	mycket	viel	
+d<sbrAxh^W	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	tid, -en, -er, -erna	Zeit	
+hPn~$wa:vf	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(att) köp/a, -er, -te, -t	kaufen	
+gBR[*~eBI?	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	något att äta	etwas zu essen	
+oEtFbc`F9H	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	gatukök, -et, --, -en	Imbiss(bude)	
+h8Q2P?gD(_	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	där	dort	
+u?C=D`3ip*	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	hamburgar/e, -en, -e, -na	Hamburger (Essen)	
+sR`mD/~yPY	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	stående	stehend	
+q.+=CAoq>.	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	veckodag, -en, -ar, -arna	Wochentag	
+nLwL%qxa%(	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	fredag, -en, -ar, -arna	Freitag	
+EES0[n;w0O	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lördag, -en, -ar, -arna	Samstag	
+C*)rMyiU|x	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	måndag, -en, -ar, -arna	Montag	
+AgIm2D9wh8	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	onsdag, -en, -ar, -arna	Mittwoch	
+lE1~;e7?v8	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	söndag, -en, -ar, -arna	Sonntag	
+CX<5Z>bmoU	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	tisdag, -en, -ar, -arna	Dienstag	
+zkf9;y7H<%	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	torsdag, -en, -ar, -arna	Donnerstag	
+Jeo+,aB*D<	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	veck/a, -an, -or, -orna	Woche	
+j0cb+FvuqW	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	varmrätt, -en, -er, -erna	warmes Gericht (Essen)	
+I!p4N<<^of	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	sallad, -en, -er	Salat	
+"sBVIQ8cF#<"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	inklusive	einschließlich / inklusiv	
+"eyN3Y3=g#J"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	måltidsdryck, -en, -er, -erna	Getränk zu den Mahlzeiten	
+"hW<#7.{y`t"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	Något mer?	Noch etwas?	
+xJt`Wf?L+@	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	vanlig	gewöhnlich, normal	
+E%!11Py=,v	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	Tack så mycket!	Vielen Dank!	
+u_kXbAJO]+	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	(att) för/stå, -står, -od, -ått	verstehen (Verb)	
+rmd&B(Kq+4	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	lån, -et, --, -en	(das) Leihen, etwa Geliehenes	
+z_W@bELdAb	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	senast (adverb)	zuletzt (Adverb)	
+b8}h|-[!G}	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	hjälp, -en	Hilfe	
+u>cIzG[v_v	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	ikväll	heute Abend	
+"sG#A5e*iNU"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	lär/a, --, -de, -t	lernen	
+"b0Z1#=yJ@o"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	ny	neu	
+v>:3]:~7,O	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Milstolpe 1	spel, -et, --, -en	Spiel	
+iu)=qr[(=w	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	huvud/stad, -en, -städer, -städerna	Hauptstadt	
+i^pq=$aPBa	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) ligg/a, -er, låg, legat	liegen	
+v/oE+==-TJ	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	vid	an, bei	
+jR*1HAc3So	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Västkusten	die Westküste	
+nE59[J}8k6	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Östersjön	die Ostsee	
+Ac8uhS5c]Y	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	vack/er, -ert, -ra	schön/hübsch	
+DL~q}7y_4e	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	läge, -t, -n, -na	Lage	
+o?(N:iS>}O	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	internationell, -t, -a	international	
+hwfzKCBpEf	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	företag, -et, --, -en	Unternehmen	
+gxNJgOUp9a	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	som (Konjunktion)	wie&nbsp;(Konjunktion)	
+w5H8?@CpZ5	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	gam/mal, -malt, -la	alt	
+"hF}aO#5e]L"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	lång, -t, -a	lang	
+L9E^=i0}T$	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	histori/a, -an, -er, -erna	Geschichte (Historisch)	
+poKLR]S>z|	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	trevlig, -t, -a	nett, schön	
+P$S`bWXqA=	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	ein trevlig stad att bo i	eine schöne Stadt zum Wohnen	
+gZ>:{iw}EH	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) säg/a, -er, sa/sade, sagt	sagen	
+N4[{K^5i2]	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	många	viele	
+i{eXS.FWU/	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	intressant, --, -a	interessant	
+GHu;J2@bCb	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	sevärdhet, -en, -er, -erna	Sehenswürdigkeit	
+HIe48^~P=`	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	skepp, -ett, --, -en	Schiff	
+sax^<jk;]V	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	samhälle, -t, -n, -na	Ortschaft/Ort, Gesellschaft/Volk	
+h1z[.>FjEM	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	stor, -t, -a	groß	
+NkesF|sK.>	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	mataffär, -en, -er, -erna	Lebensmittelgeschäft	
+kwrW3k0}pQ	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	varhus, -et, --, -en	Warenhaus	
+"nTaMQIT#Am"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	vårdcentral, -en, -er, -erna	primäre medizinische Versorgung	
+xjaKKM29x{	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	apotek, -et, --, -en	Apotheke	
+E$|V!lsAli	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	bank, -en, -er, -erna	Bank (Geld &amp; Sitzen)	
+H-LQq9ih.y	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	parkeringsplats, -en, -er, -erna	Parkplatz	
+uteF,n6nWl	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	bensinmack, -en, -ar, -arna	Tankstelle	
+fbbBQB]adr	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	bilverk/stad, -en, -städer, -städerna	Autowerkstatt	
+"n#q31?.-Kf"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	liten, litet, små	klein	
+x-gnJ<HYK<	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	kiosk, -en, -er, -erna	Kiosk	
+Rd+^G=aUV	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	station, -en, -er, -erna	Bahnhof	
+m8Q>%LfLf/	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	kyrka, -n, -or, -orna	Kirche	
+xKW~,.w.K5	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) finnas, finns, fanns, funnits	vorhanden sein / bestehen / existieren	
+y<3K,7Loa=	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	det finns	es gibt	
+tTK)@33R@:	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	invånar/e, -en, -e, -na	Einwohner	
+z2=G@-9%h6	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	läkar/e, -en, -e, -na	Arzt	
+f8hmeiHLB_	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	sjö, -n, -ar, -arna	See	
+"Lb_L~&7/,#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	badplats, -en, -er, -erna	Badeplatz	
+G$Sg$ffZ1L	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	till	nach	
+Dav0|U[)K&	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	mil, -en, --, -en	schwedische Meile (10km)	
+eu$w6aw.B=	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	inte så stor(t)	nicht besonders groß	
+v.lo`F@^-F	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	i centrum	im Zentrum	
+u7F^6awKnn	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	utanför	außerhalb	
+hsJ5`3VGwq	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) ligga vackert	schön gelegen sein	
+"A$/W,hE<.#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	lugn, -t, -a	ruhig	
+~rRL<gN+8	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	i närheten av	in der Nähe von	
+B+Ro}*<J@0	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	någ/on, -ot, -ra	einer, eine, ein / jemand	
+t|g/V5Pm*?	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Ja, det finns det.	Ja, das gibt es.	
+r{X.4vrN2M	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Nej, det finns det inte.	Nein, das gibt es nicht.	
+"PZ({,D#6?4"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Ja, det är det inte.	Ja, das ist es.	
+nMhk(fzGwy	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Nej, det är det inte.	Nein, das ist es nicht.	
+ywOF4-qQg)	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Ja, det gör det.	Ja, das tut es.	
+c@z-$^4i!v	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Nej, det gör det inte.	Nein, das tut es nicht.	
+x!$3;Wu%c	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	krog, -en, -ar, -arna	Kneipe	
+IJ</%=(&)^	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	teat/er, -rn, -rar, -rarna	Theater	
+j,(yH*Sdu)	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) upplev/a, -er, -de, -t	erleben (Verb)	
+K?r+[aY<eD	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	stor/stad, -en, -städer, -städerna	Großstadt	
+e%I/Irl)Ks	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	hier	här	
+G];|/)!Pza	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	allt	alles	
+"HG<[=03#lr"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	skärgård, -en, -ar, -arna	Schärengarten (Inselgruppe bei Stockholm)	
+DZPlsDITb<	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	centr/um, -umet, -a, -arna	Zentrum	
+OMi%~57_qN	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	fin, -t, -a	fein	
+IF`w];f%P@	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	gata, -n, -or, -orna	Straße	
+G+:rwsmr$<	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	mysig, -t, -a	gemütlich	
+xmhTkA1//I	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	bra	gut	
+m`8u]a4v^L	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	park, -en, -er, -erna	Park	
+ie)zb^J^BW	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	naturligtvis	natürlich	
+PL@T|[qaXr	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	utbud, -et, --, -en	Angebot	
+QJ*10.x*.	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	kultur, -en, -er, -erna	Kultur	
+e.5S1~[g*I	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	nöje, -t, -n, -???	Vergnügen	
+nV4N8)uy}v	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	sport, -en, -er, -erna	Sport	
+vw):*.B7j1	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	nöjespark, -en, -er, -erna	Vergnügungspark	
+ARnE;.?>^@	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	hamn, -en, -ar, -arna	Hafen	
+"p&BiPMN#R9"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	centralstation, -en, -er, -erna	Hauptbahnhof	
+"Lo<t/#QFx`"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	tågförbindelse, -n, -r, -rna	Zugverbindung	
+HlNRqlnTdO	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	men	aber	
+"JF#e<#xHTi"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	skog, -en, -ar, -arna	Wald	
+L?(qe<?-65	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	modern, -t, -a	modern	
+po!1]|_U6|	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	din, ditt, dina	dein, deine	
+G1nMbJD-)>	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	min, mitt, mina	mein, meine	
+fiN7V>Xy$I	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	norra	nördlich	
+q%[U+Ck6%=	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	södra	südlich	
+wJLagQ{uhY	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	västra	westlich	
+P&o[N|;:i8	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	östra	östlich	
+f&Ue%{bLde	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	den	er, sie, es&nbsp;	
+LhA&|%P)$5	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	mittemot	gegenüber	
+iU1_3[U>=(	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	personlig, -t, -a	persönlich	
+"n#J,*D}6u#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	service, -n	Service	
+"E~8ovn=H(#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	information, -en, -er, -erna	Information	
+y~:hQn:TtT	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	om (Präposition)	über&nbsp;(Präposition)	
+L$EKy.Zf4b	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	sightseeing, -en, -ar, -arna	Sightseeing	
+Nto7Z_pes4	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	utflykt, -en, -er, -erna	Ausflug	
+LC$9xLKuZX	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) boka, -r, -de, -t	buchen	
+"Q#I$U,z)Oh"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	samt	und, sowie	
+QKe^,ur@et	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Stockholmskortet	Stockholmkarte	
+jy1HGdp~+W	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	evenmang, -et, --, -en	Veranstaltung	
+PwT`-3@I8w	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	biljet, -en, -er, -erna	Eintrittskarte	
+z|cwb|.*~D	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) hyr/a, --, -de, -t	mieten	
+A-9~$IoMEN	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Vad finns det för ...?	Welch/er, -e, -es, -e ... gibt es?	
+GUInn8ty<=	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) rekommendera, -r, -de, -t	empfehlen	
+Qmxc(@7qu	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	över (Adverb/Präposition)	über, von	
+qRA]E$@-)v	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	guidad visning	Führung	
+QAn5FbPpGp	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	utflyktsmål, -et, --, -en	Ausflugsziel	
+tbP>EM5~-;	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	annons, -en, -er, -erna	Anzeige	
+I|AiZh>k7<	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) titta, -r, -de, -t	schauen, ansehen	
+g[A|vV,7n;	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) koppla, -r, -de, -t av	entspannen	
+"l}4H@+?[#z"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	kaffebön/a, -an, -or, -orna	Kaffeebohne	
+P6RfxFi&=O	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	charmig, -t, -a	bezaubernd, reizend	
+v!|c*TSe@W	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	perfekt, --, -a	perfekt	
+fH(L:%z%ES	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	ställe, -t, -n, -na	Platz, Ort	
+qE`DR|6~e@	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	besök, -et, --, -en	Besuch	
+yP8n{laz.N	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	värld, -en, -ar, -arna	Welt	
+k9v01cpl^N	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	friluftsmuse/um, -et, -er, -erna	Freiluftmuseum	
+lA<)jWHS<x	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	världens äldsta friluftsmuseum	das älteste Freiluftmuseum der Welt	
+qn@s5xHIj;	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	både ... och	sowohl ... als auch	
+A68!kf=y]I	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	stockholmar/e, -en, -e, -arna	Stockholmer (Einwohner)	
+F+M3zAje{4	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	besökar/e, -en, -e, -arna	Besucher	
+mBM)Zxd`%@	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	hit	hierher	
+KNKzKf(q;7	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	historisk, -t, -a	historisch	
+wYaoyla1c7	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	miniatyr, -en, -er, -erna	Miniatur	
+Q%SFGbqIEl	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	egen, eget, egna	eigen	
+BXKK|OAO$[	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	picknick, -en, -ar, -arna	Picknick	
+r{pW-NUsDQ	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	butik, -en, -er, -erna	Geschäft, Laden	
+vv{ei`gT=,	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	spännande	spannend	
+oA@^:%=GGM	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	sortiment, -et, --, -en	Sortiment, Auswahl	
+wQ&w;]^uW!	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	olika	verschiedene	
+r$Jf|lI.E0	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	pris, -et, -er, -erna	Preis	
+z+=2XAl.gZ	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	foto, -t, -n, -na	Foto	
+DH}[sDhC(Y	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	vykort, -et, --, -en	Ansichtskarte	
+oljv);O!hj	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	present, -en, -er, -erna	Geschenk	
+t^%@0=pKxr	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) sälj/a, -er, sålde, sålt	verkaufen	
+yIH%ko)ir?	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	katalog, -en, -er, -erna	Katalog	
+z27^:Q|+rW	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) för/låta, -låter, -lät, -låtit	entschuldigen, verzeihen	
+rLDG?qyw)4	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) ursäkta, -r, -de, -t	entschuldigen	
+"P<|M[zA#Gw"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Kan du säga mig?	Kannst du mir sagen?	
+PGbf*?jUsC	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) gå, -r, gick, gått	gehen	
+nb`!QPEnsz	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	rackt fram	geradeaus	
+PqK<93}(Dc	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	sedan	dann, anschließend	
+Ajl1<r4z*Q	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	ta till höger	rechts abbiegen	
+CyJrn?`L@P	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(till) höger&nbsp;	(nach) rechts	
+gzmp913N9f	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	andra	der, die, das zweite	
+b-Zwfrs5We	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	tredje	der, die, das dritte	
+xx3gkm*8]g	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	brevid	neben	
+F:y8AJPMiA	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Tack så mycket.	Vielen Dank.	
+y1^Pr!W;2n	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	hur	wie	
+O8q$buUNj~	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(till) vänster	(nach) links	
+w>V8^2tJyP	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) fort/sätta, -sätter, -satte, -satt	fortsetzen, weitergehen	
+Ks@iy?00&O	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	trafikljus, -et, --, -en	Verkehrsampel	
+vnjp:/!}g^	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Ett ögonblick!	Einen Augenblick!	
+iAcAiZHwBf	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Just precis.	Genau.	
+n`;<gd:fL@	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Tack ska du ha.	Vielen Dank.	
+C?3t*&Tm<X	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	i närheten	in der Nähe	
+B3}i}My94v	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) kör/a, --, -de, -t	fahren	
+lWKV}U)nl(	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	först	zuerst	
+z)gGLrR>ro	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	där borta	dort drüben	
+z/uIj7`,}q	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	borta	fort, weg	
+DHc)kj~p),	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	korsning, -en, -ar, -arna	Kreuzung	
+dTE:3%dLLN	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) för/stå, -står, -stod, -stått	verstehen	
+m!iUws(|>6	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	en gång till	noch einmal	
+QN9P:LJTle	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	efter	nach	
+m:X}80cOVu	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) beskriv/a, -er, beskrev, -it	beschreiben	
+"jxDBqa#`f2"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	hem, -met, --, -men	Haus, Heim	
+"dU;tx1rW#X"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	adress, -en, -er, -erna	Adresse	
+LiQ$g$L_jl	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	postnum/mer, -ret, -mer, -merna	Postleitzahl	
+jczr6=<]3a	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Jag bor på Biskopsgatan.	Ich wohne in Biskopsgatan.	
+b[=vVMk`/A	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	på	(hier:) in	
+"ODlP#?i5%;"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	Vad har du för postnummer?	Was ist deine Postleitzahl?	
+A<2U&;SfKA	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	bokstav, -en, -stäver, -stäverna	Buchstabe	
+AY57:<c9%Z	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	(att) uttala, -r, -de, -t	aussprechen	
+n49uwZJ3`g	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 04	mynt, -et, --, -en	Münze	
+m{E4dA?At=	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	från	ab	
+cJkq+JYpe2	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	kalvkött, -et, --, -en	Kalbfleisch	
+"cs-*6#P6,1"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	dillsås, -en, -er, -erna	Dillsauce	
+m-n+2znnZp	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	grönsakssopp/a, -an, -or, -orna	Gemüsesuppe	
+Q]ssYW;JG@	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	pannkak/a, -an, -or	Pfannkuchen	
+K56dV|.v*3	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	pannbiff, -en, -ar, -arna	Hackbeef	
+H|qb!D@DF$	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lök, -en, -ar, -arna	Zwiebel	
+F{S!k,onyA	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	pytt i pann/a, -an, -or, -orna	traditionelles Resteessen	
+nx[1gDvC9$	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	rödbet/a, -an, -or, -orna	Rote Bete	
+f@R8&IlG|x	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	stekt, --, -a	gebraten	
+"pX~^`~rn.#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	fisk, -en, -ar, -arna	Fisch	
+"c9Bja#XADh"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	grönsak, -en, -er, -erna	Gemüse	
+zdFWBf+3Tn	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	stäng, stängt, stängda	geschlossen	
+nsPSK5L?I}	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	påtår, -en, -ar, -arna	"zweites Einschenken (""free refills"")"	
+"yt0if#Ng.D"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Vad har du för en rätt?	Was für ein Gericht hast du?	
+"ce(+iE%#B^"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	på onsdag	am Mittwoch	
+f4i)Oz?kR?	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	falukorv, -en, -ar, -arna	eine Art Fleischwurst	
+wrruA|R.,v	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	meny, -n, -er, -erna	Speisekarte, Menü	
+b:gT&t<Mp%	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(att) beställ/a, -er, -de, -t	bestellen	
+X$j>$R?RZ	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	gäst, -en, -er, -erna	Gast	
+n,DD?&r2fC	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Kan jag få ...	Ich hätte gerne ...	
+Qj$[k04=7Q	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Jag vill ha ...	Ich hätte gern ... / Ich möchte ...	
+nX[j$(p=<n	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	sopp/a, -n, -or, -orna	Suppe	
+se4Lvh0SXX	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lättöl, -en	"ein Leichtbier (cave: nur in der Bedeutung ""eine Portion Leichtbier"" ein en-Wort!)"	
+C>.CIpu0~s	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	ris, -et, --, -en	Reis	
+xo]2W705`|	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	currysås, -en, -er, -erna	Currysauce	
+LTn[.n9_g	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	past/a, -an, -or, -orna	Nudel	
+"vP]D?|#bL+"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	köttfärs, -en, -er, -erna	Hackfleisch	
+B[MevXSPQ<	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	appeljuice, -n, -r, -rna	Apfelsaft	
+D:(Ty`U8B6	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(att) betala, -r, -de, -t	bezahlen	
+HcWj%B~f;j	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	grilla/d, -t, -de	gegrillt	
+p-qF~LLIYT	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lingon, -et, --, -en	Preiselbeere	
+Odl`-!/W+9	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lax, -en, -ar, -arna	Lachs	
+jyP]%lakk/	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	majonnäs, -en, -er, -erna	Mayonnaise	
+Ea{J<OKvt[	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	vatt/en, -net	Wasser	
+Cw>XOfiJ+v	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	lektion, -en, -er, -erna	Unterrichtsstunde, Lektion	
+tMj/qOc.:8	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	skön, -t, -a	schön, hübsch	
+y.-[6JD0ke	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(att) sköt/a, -er, -te, -t	pflegen	
+Ls`AL5SWq2	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	(sjö)sjuk, -t, -a	(see)krank	
+jUdmf)+g|o	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	sjöman, -nen, --, -nen	Seemann	
+KD.7j0hiT	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	bördiga åkrar	fruchtbare Äcker	
+f|bU)68wqt	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	smörgåsbord, -et, --, -en	Buffet	
+xYA2o*]lNx	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	sill, -en, -ar, -arna	Hering	
+"K-1Z.3.WD#"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	grava/d, -t, -de	gebeizt	
+No&LZ/(h&c	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	skaldjur, -et, --, -en	Krustentier	
+E{dti2YOr0	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	Janssons frestelse	"""Janssons Versuchung"" (Auflauf aus Kartoffeln, Zwiebeln und Anchovis)"	
+"lqKh-#`1Y7"	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	fläsk, -et	Speck	
+CGAjy[6]Z6	Einfach (und die umgekehrte Richtung)	Välkomna! neu A1-A2 - manual::Lektion 03	hemlaga/d, -t, -de	hausgemacht, selbstgemacht	
