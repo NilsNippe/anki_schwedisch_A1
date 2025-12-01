@@ -1,0 +1,786 @@
+#separator:tab
+#html:false
+kanelbull/e -en -ar	Zimtschnecke
+Zimtschnecke	kanelbull/e -en -ar
+läsk -en --	Limonade
+Limonade	läsk -en --
+baguette med skinka och tomater	Baguette mit Schinken und Tomaten
+Baguette mit Schinken und Tomaten	baguette med skinka och tomater
+baguette -n -r	Baguette
+Baguette	baguette -n -r
+ostfrall/a -an -or	Käsebrötchen
+Käsebrötchen	ostfrall/a -an -or
+kopp -en -ar	Tasse
+Tasse	kopp -en -ar
+kaffe -t	Kaffee
+Kaffee	kaffe -t
+chokladmuffins -en --	Schokoladenmuffin
+Schokoladenmuffin	chokladmuffins -en --
+bjud/a -er	einladen
+einladen	bjud/a -er
+bjuda på	zu etwas einladen
+zu etwas einladen	bjuda på
+samtal -et --	Gespräch
+Gespräch	samtal -et --
+skola, ska	Hier: wollen
+Hier: wollen	skola, ska
+Ska vi äta?	Wollen wir essen?
+Wollen wir essen?	Ska vi äta?
+ät/a, -er	essen
+essen	ät/a, -er
+matsäck, -en, -ar	Proviant
+Proviant	matsäck, -en, -ar
+med	mit
+mit	med
+mig	mich, mir
+mich, mir	mig
+hungrig	hungrig
+hungrig	hungrig
+Jag är hungrig.	Ich bin hungrig.
+Ich bin hungrig.	Jag är hungrig.
+vilja, vill	wollen
+wollen	vilja, vill
+smörgås, -en, -ar	belegtes Brot
+belegtes Brot	smörgås, -en, -ar
+frall/a, -n, -or	Brötchen
+Brötchen	frall/a, -n, -or
+En macka är alltid gott.	Ein Butterbrot schmeckt immer gut.
+Ein Butterbrot schmeckt immer gut.	En macka är alltid gott.
+alltid	immer
+immer	alltid
+ta, -r	nehmen
+nehmen	ta, -r
+drick/a, -er	trinken
+trinken	drick/a, -er
+Ja, tack.	Ja, bitten.
+Ja, bitten.	Ja, tack.
+Och något till?	Und etwas dazu?
+Und etwas dazu?	Och något till?
+kanske	vielleicht
+vielleicht	kanske
+Nej, tack.	Nein, danke.
+Nein, danke.	Nej, tack.
+Det är bra.	Das ist alles.
+Das ist alles.	Det är bra.
+Det är jättegott.	Es schmeckt sehr gut.
+Es schmeckt sehr gut.	Det är jättegott.
+Det smakar bre med mat nu.	Jetzt könnte ich etwas [zu Essen] vertragen
+Jetzt könnte ich etwas [zu Essen] vertragen	Det smakar bre med mat nu.
+smaka, -r	schmecken
+schmecken	smaka, -r
+mat, -en	Essen
+Essen	mat, -en
+nu	jetzt
+jetzt	nu
+stäm/ma, -mer	stimmen
+stimmen	stäm/ma, -mer
+mer	mehr
+mehr	mer
+javisst	ja sicher
+ja sicher	javisst
+livsmed/el, -let, --	Lebensmittel
+Lebensmittel	livsmed/el, -let, --
+god, gott	gut/lecker
+gut/lecker	god, gott
+nyttig, -t	gesund/nützlich
+gesund/nützlich	nyttig, -t
+saft, -en, -er	Saft/Sirup
+Saft/Sirup	saft, -en, -er
+bull/e, -en, -ar	Stück Gebäck, Schnecke, Semmel
+Stück Gebäck, Schnecke, Semmel	bull/e, -en, -ar
+fika, -t	Kaffetrinken
+Kaffetrinken	fika, -t
+lunch, -en, -er	Mittegessen
+Mittegessen	lunch, -en, -er
+bety/da, -der	bedeuten
+bedeuten	bety/da, -der
+detsamma som	dasselbe wie
+dasselbe wie	detsamma som
+korg, -en, -ar	Korb
+Korb	korg, -en, -ar
+ost, -en, -ar	Käse
+Käse	ost, -en, -ar
+rädis/a, -an, -or	Radieschen
+Radieschen	rädis/a, -an, -or
+skink/a, -an, or	Schinken
+Schinken	skink/a, -an, or
+tonfisk, -en, ar	Thunfisch
+Thunfisch	tonfisk, -en, ar
+räk/a, -an, or	Garnele
+Garnele	räk/a, -an, or
+ägg, -et, --	Ei
+Ei	ägg, -et, --
+kyckling, -en, -ar	Hähnchen
+Hähnchen	kyckling, -en, -ar
+potatissallad, -en, -er	Kartoffelsalat
+Kartoffelsalat	potatissallad, -en, -er
+potatis, -en, -ar	Kartoffel
+Kartoffel	potatis, -en, -ar
+päron, -et, --	Birne
+Birne	päron, -et, --
+banan, -en, -er	Banane
+Banane	banan, -en, -er
+jordgubb/e, -en, -ar	Erdbeere
+Erdbeere	jordgubb/e, -en, -ar
+inte	nicht
+nicht	inte
+frukost, -en, -ar	Frühstück
+Frühstück	frukost, -en, -ar
+dag, -en, -ar	Tag
+Tag	dag, -en, -ar
+dagens	des Tages (zB.: erste Mahlzeit des Tages)
+des Tages (zB.: erste Mahlzeit des Tages)	dagens
+första	der/die/das erste
+der/die/das erste	första
+måltid, -en, -er	Mahlzeit
+Mahlzeit	måltid, -en, -er
+lätt	leicht
+leicht	lätt
+mitt på dagen	in der Mitte des Tages
+in der Mitte des Tages	mitt på dagen
+huvudmåltid, -en, -er	Hauptmahlzeit
+Hauptmahlzeit	huvudmåltid, -en, -er
+middag, -en, -ar	warme Mahlzeit (Mittag/Abendessen)
+warme Mahlzeit (Mittag/Abendessen)	middag, -en, -ar
+de flesta [dom flesta]	die Meisten
+die Meisten	de flesta [dom flesta]
+på kvällen	am Abend
+am Abend	på kvällen
+kväll, -en, -ar	Abend
+Abend	kväll, -en, -ar
+klockan ... (18, 19, etc.)	um ... Uhr (18, 19, etc.)
+um ... Uhr (18, 19, etc.)	klockan ... (18, 19, etc.)
+kvällsmat, -en	leichtes Abendessen, Abendbrot
+leichtes Abendessen, Abendbrot	kvällsmat, -en
+till exempel	zum Beispiel
+zum Beispiel	till exempel
+te, -et	Tee
+Tee	te, -et
+festmåltid, -en, -er	Festessen
+Festessen	festmåltid, -en, -er
+viktig	wichtig
+wichtig	viktig
+social	sozial
+sozial	social
+institution, -en, -er	Institution
+Institution	institution, -en, -er
+att	dass
+dass	att
+paus, -en, -er	Pause
+Pause	paus, -en, -er
+dryck, -en, -er	Getränk
+Getränk	dryck, -en, -er
+annan	ein anderer, eine andere, ein anderes, andere
+ein anderer, eine andere, ein anderes, andere	annan
+tillsammans med	zusammen mit
+zusammen mit	tillsammans med
+familj, -en, -er	Familie
+Familie	familj, -en, -er
+eller	oder
+oder	eller
+kolleg/a, -an, -er, -or	Kollege
+Kollege	kolleg/a, -an, -er, -or
+kak/a, -an, -or	Plätzchen, Kuchen
+Plätzchen, Kuchen	kak/a, -an, -or
+morg/on, -onen, -nar	Morgen
+Morgen	morg/on, -onen, -nar
+typisk, -t	typisch
+typisch	typisk, -t
+svensk, -t	Schwedisch
+Schwedisch	svensk, -t
+när	wenn
+wenn	när
+(att) fika, -r	Kaffee trinken
+Kaffee trinken	(att) fika, -r
+tallrik, -en, -ar, -arna	Teller
+Teller	tallrik, -en, -ar, -arna
+yoghurt, -en, -ar, -arna	Joghurt
+Joghurt	yoghurt, -en, -ar, -arna
+filmjölk, -en	Sauer/Dickmilch
+Sauer/Dickmilch	filmjölk, -en
+fling/a, -an, -or, -orna	Flocken
+Flocken	fling/a, -an, -or, -orna
+bär, -et, --, -en	Beere
+Beere	bär, -et, --, -en
+ett par	ein paar
+ein paar	ett par
+mugg, -en, -ar, -arna	Becher
+Becher	mugg, -en, -ar, -arna
+ibland	manchmal
+manchmal	ibland
+skiv/a, -an, -or, -orna	Scheibe
+Scheibe	skiv/a, -an, -or, -orna
+knäckebröd, -et, --, -en	Knäckebrot
+Knäckebrot	knäckebröd, -et, --, -en
+marmelad, -en, -er, -erna	Marmelade
+Marmelade	marmelad, -en, -er, -erna
+juice, -n, -r, -rna	Fruchtsaft
+Fruchtsaft	juice, -n, -r, -rna
+krov, -en, -ar, -arna	Wurst
+Wurst	krov, -en, -ar, -arna
+bit, -en, ar, -arna	Stück
+Stück	bit, -en, ar, -arna
+lite	ein wenig
+ein wenig	lite
+mjölk, -en	Milch
+Milch	mjölk, -en
+så	so, deshalb
+so, deshalb	så
+kokt	gekocht (Adjektiv)
+gekocht (Adjektiv)	kokt
+sock/er, -ret, -er, -ren	Zucker
+Zucker	sock/er, -ret, -er, -ren
+grädde, -n	Sahne
+Sahne	grädde, -n
+gaff/el, -eln, -lar, -larna	Gabel
+Gabel	gaff/el, -eln, -lar, -larna
+kniv, -en, -ar, -arna	Messer
+Messer	kniv, -en, -ar, -arna
+salt, -et, -er, -erna	Salz
+Salz	salt, -et, -er, -erna
+servett, -en, -er, -erna	Serviette
+Serviette	servett, -en, -er, -erna
+sked, -en, -ar, -arna	Löffel
+Löffel	sked, -en, -ar, -arna
+Kan du ge mig ...?	Kannst du mir bitte ... geben?
+Kannst du mir bitte ... geben?	Kan du ge mig ...?
+(att) ge, -r, gav, gett/givit	geben
+geben	(att) ge, -r, gav, gett/givit
+porslin, -et	Porzellan / Geschirr
+Porzellan / Geschirr	porslin, -et
+(att) kosta, -r, -de, -t	kosten (Verb)
+kosten (Verb)	(att) kosta, -r, -de, -t
+rätt, -en, -er, -erna	Gericht (Essen)
+Gericht (Essen)	rätt, -en, -er, -erna
+dagens rätt	Tagesgericht
+Tagesgericht	dagens rätt
+maträtt, -en, -er, -erna	Gericht (Essen)
+Gericht (Essen)	maträtt, -en, -er, -erna
+som (Relativpronomen)	der, die, das (Relativpronomen)
+der, die, das (Relativpronomen)	som (Relativpronomen)
+(att) kunna, kan, kunde, kunnat	können (Verb)
+können (Verb)	(att) kunna, kan, kunde, kunnat
+kron/a, -an, -or, -orna	Krone (Währung & Gegenstand)
+Krone (Währung & Gegenstand)	kron/a, -an, -or, -orna
+(att) få, -r, fick, fått	dürfen, müssen, bekommen, erhalten, kriegen
+dürfen, müssen, bekommen, erhalten, kriegen	(att) få, -r, fick, fått
+bröd, -et, --, -en	Brot
+Brot	bröd, -et, --, -en
+smör, -et	Butter
+Butter	smör, -et
+valfri	beliebig, optional, zur freien Auswahl
+beliebig, optional, zur freien Auswahl	valfri
+lättöl, -et, --/-er, -en	Leichtbier
+Leichtbier	lättöl, -et, --/-er, -en
+mineralvatt/en, -net,	Mineralwasser
+Mineralwasser	mineralvatt/en, -net,
+kaffe på maten	Kaffe nach dem Essen
+Kaffe nach dem Essen	kaffe på maten
+billig	billig
+billig	billig
+om (Konjunktion)	wenn, falls (Konjunktion)
+wenn, falls (Konjunktion)	om (Konjunktion)
+mycket	viel
+viel	mycket
+tid, -en, -er, -erna	Zeit
+Zeit	tid, -en, -er, -erna
+(att) köp/a, -er, -te, -t	kaufen
+kaufen	(att) köp/a, -er, -te, -t
+något att äta	etwas zu essen
+etwas zu essen	något att äta
+gatukök, -et, --, -en	Imbiss(bude)
+Imbiss(bude)	gatukök, -et, --, -en
+där	dort
+dort	där
+hamburgar/e, -en, -e, -na	Hamburger (Essen)
+Hamburger (Essen)	hamburgar/e, -en, -e, -na
+stående	stehend
+stehend	stående
+veckodag, -en, -ar, -arna	Wochentag
+Wochentag	veckodag, -en, -ar, -arna
+fredag, -en, -ar, -arna	Freitag
+Freitag	fredag, -en, -ar, -arna
+lördag, -en, -ar, -arna	Samstag
+Samstag	lördag, -en, -ar, -arna
+måndag, -en, -ar, -arna	Montag
+Montag	måndag, -en, -ar, -arna
+onsdag, -en, -ar, -arna	Mittwoch
+Mittwoch	onsdag, -en, -ar, -arna
+söndag, -en, -ar, -arna	Sonntag
+Sonntag	söndag, -en, -ar, -arna
+tisdag, -en, -ar, -arna	Dienstag
+Dienstag	tisdag, -en, -ar, -arna
+torsdag, -en, -ar, -arna	Donnerstag
+Donnerstag	torsdag, -en, -ar, -arna
+veck/a, -an, -or, -orna	Woche
+Woche	veck/a, -an, -or, -orna
+varmrätt, -en, -er, -erna	warmes Gericht (Essen)
+warmes Gericht (Essen)	varmrätt, -en, -er, -erna
+sallad, -en, -er	Salat
+Salat	sallad, -en, -er
+inklusive	einschließlich / inklusiv
+einschließlich / inklusiv	inklusive
+måltidsdryck, -en, -er, -erna	Getränk zu den Mahlzeiten
+Getränk zu den Mahlzeiten	måltidsdryck, -en, -er, -erna
+Något mer?	Noch etwas?
+Noch etwas?	Något mer?
+vanlig	gewöhnlich, normal
+gewöhnlich, normal	vanlig
+Tack så mycket!	Vielen Dank!
+Vielen Dank!	Tack så mycket!
+(att) för/stå, -står, -od, -ått	verstehen (Verb)
+verstehen (Verb)	(att) för/stå, -står, -od, -ått
+lån, -et, --, -en	(das) Leihen, etwa Geliehenes
+(das) Leihen, etwa Geliehenes	lån, -et, --, -en
+senast (adverb)	zuletzt (Adverb)
+zuletzt (Adverb)	senast (adverb)
+hjälp, -en	Hilfe
+Hilfe	hjälp, -en
+ikväll	heute Abend
+heute Abend	ikväll
+lär/a, --, -de, -t	lernen
+lernen	lär/a, --, -de, -t
+ny	neu
+neu	ny
+spel, -et, --, -en	Spiel
+Spiel	spel, -et, --, -en
+huvud/stad, -en, -städer, -städerna	Hauptstadt
+Hauptstadt	huvud/stad, -en, -städer, -städerna
+(att) ligg/a, -er, låg, legat	liegen
+liegen	(att) ligg/a, -er, låg, legat
+vid	an, bei
+an, bei	vid
+Västkusten	die Westküste
+die Westküste	Västkusten
+Östersjön	die Ostsee
+die Ostsee	Östersjön
+vack/er, -ert, -ra	schön/hübsch
+schön/hübsch	vack/er, -ert, -ra
+läge, -t, -n, -na	Lage
+Lage	läge, -t, -n, -na
+internationell, -t, -a	international
+international	internationell, -t, -a
+företag, -et, --, -en	Unternehmen
+Unternehmen	företag, -et, --, -en
+som (Konjunktion)	wie (Konjunktion)
+wie (Konjunktion)	som (Konjunktion)
+gam/mal, -malt, -la	alt
+alt	gam/mal, -malt, -la
+lång, -t, -a	lang
+lang	lång, -t, -a
+histori/a, -an, -er, -erna	Geschichte (Historisch)
+Geschichte (Historisch)	histori/a, -an, -er, -erna
+trevlig, -t, -a	nett, schön
+nett, schön	trevlig, -t, -a
+ein trevlig stad att bo i	eine schöne Stadt zum Wohnen
+eine schöne Stadt zum Wohnen	ein trevlig stad att bo i
+(att) säg/a, -er, sa/sade, sagt	sagen
+sagen	(att) säg/a, -er, sa/sade, sagt
+många	viele
+viele	många
+intressant, --, -a	interessant
+interessant	intressant, --, -a
+sevärdhet, -en, -er, -erna	Sehenswürdigkeit
+Sehenswürdigkeit	sevärdhet, -en, -er, -erna
+skepp, -ett, --, -en	Schiff
+Schiff	skepp, -ett, --, -en
+samhälle, -t, -n, -na	Ortschaft/Ort, Gesellschaft/Volk
+Ortschaft/Ort, Gesellschaft/Volk	samhälle, -t, -n, -na
+stor, -t, -a	groß
+groß	stor, -t, -a
+mataffär, -en, -er, -erna	Lebensmittelgeschäft
+Lebensmittelgeschäft	mataffär, -en, -er, -erna
+varhus, -et, --, -en	Warenhaus
+Warenhaus	varhus, -et, --, -en
+vårdcentral, -en, -er, -erna	primäre medizinische Versorgung
+primäre medizinische Versorgung	vårdcentral, -en, -er, -erna
+apotek, -et, --, -en	Apotheke
+Apotheke	apotek, -et, --, -en
+bank, -en, -er, -erna	Bank (Geld & Sitzen)
+Bank (Geld & Sitzen)	bank, -en, -er, -erna
+parkeringsplats, -en, -er, -erna	Parkplatz
+Parkplatz	parkeringsplats, -en, -er, -erna
+bensinmack, -en, -ar, -arna	Tankstelle
+Tankstelle	bensinmack, -en, -ar, -arna
+bilverk/stad, -en, -städer, -städerna	Autowerkstatt
+Autowerkstatt	bilverk/stad, -en, -städer, -städerna
+liten, litet, små	klein
+klein	liten, litet, små
+kiosk, -en, -er, -erna	Kiosk
+Kiosk	kiosk, -en, -er, -erna
+station, -en, -er, -erna	Bahnhof
+Bahnhof	station, -en, -er, -erna
+kyrka, -n, -or, -orna	Kirche
+Kirche	kyrka, -n, -or, -orna
+(att) finnas, finns, fanns, funnits	vorhanden sein / bestehen / existieren
+vorhanden sein / bestehen / existieren	(att) finnas, finns, fanns, funnits
+det finns	es gibt
+es gibt	det finns
+invånar/e, -en, -e, -na	Einwohner
+Einwohner	invånar/e, -en, -e, -na
+läkar/e, -en, -e, -na	Arzt
+Arzt	läkar/e, -en, -e, -na
+sjö, -n, -ar, -arna	See
+See	sjö, -n, -ar, -arna
+badplats, -en, -er, -erna	Badeplatz
+Badeplatz	badplats, -en, -er, -erna
+till	nach
+nach	till
+mil, -en, --, -en	schwedische Meile (10km)
+schwedische Meile (10km)	mil, -en, --, -en
+inte så stor(t)	nicht besonders groß
+nicht besonders groß	inte så stor(t)
+i centrum	im Zentrum
+im Zentrum	i centrum
+utanför	außerhalb
+außerhalb	utanför
+(att) ligga vackert	schön gelegen sein
+schön gelegen sein	(att) ligga vackert
+lugn, -t, -a	ruhig
+ruhig	lugn, -t, -a
+i närheten av	in der Nähe von
+in der Nähe von	i närheten av
+någ/on, -ot, -ra	einer, eine, ein / jemand
+einer, eine, ein / jemand	någ/on, -ot, -ra
+Ja, det finns det.	Ja, das gibt es.
+Ja, das gibt es.	Ja, det finns det.
+Nej, det finns det inte.	Nein, das gibt es nicht.
+Nein, das gibt es nicht.	Nej, det finns det inte.
+Ja, det är det inte.	Ja, das ist es.
+Ja, das ist es.	Ja, det är det inte.
+Nej, det är det inte.	Nein, das ist es nicht.
+Nein, das ist es nicht.	Nej, det är det inte.
+Ja, det gör det.	Ja, das tut es.
+Ja, das tut es.	Ja, det gör det.
+Nej, det gör det inte.	Nein, das tut es nicht.
+Nein, das tut es nicht.	Nej, det gör det inte.
+krog, -en, -ar, -arna	Kneipe
+Kneipe	krog, -en, -ar, -arna
+teat/er, -rn, -rar, -rarna	Theater
+Theater	teat/er, -rn, -rar, -rarna
+(att) upplev/a, -er, -de, -t	erleben (Verb)
+erleben (Verb)	(att) upplev/a, -er, -de, -t
+stor/stad, -en, -städer, -städerna	Großstadt
+Großstadt	stor/stad, -en, -städer, -städerna
+hier	här
+här	hier
+allt	alles
+alles	allt
+skärgård, -en, -ar, -arna	Schärengarten (Inselgruppe bei Stockholm)
+Schärengarten (Inselgruppe bei Stockholm)	skärgård, -en, -ar, -arna
+centr/um, -umet, -a, -arna	Zentrum
+Zentrum	centr/um, -umet, -a, -arna
+fin, -t, -a	fein
+fein	fin, -t, -a
+gata, -n, -or, -orna	Straße
+Straße	gata, -n, -or, -orna
+mysig, -t, -a	gemütlich
+gemütlich	mysig, -t, -a
+bra	gut
+gut	bra
+park, -en, -er, -erna	Park
+Park	park, -en, -er, -erna
+naturligtvis	natürlich
+natürlich	naturligtvis
+utbud, -et, --, -en	Angebot
+Angebot	utbud, -et, --, -en
+kultur, -en, -er, -erna	Kultur
+Kultur	kultur, -en, -er, -erna
+nöje, -t, -n, -???	Vergnügen
+Vergnügen	nöje, -t, -n, -???
+sport, -en, -er, -erna	Sport
+Sport	sport, -en, -er, -erna
+nöjespark, -en, -er, -erna	Vergnügungspark
+Vergnügungspark	nöjespark, -en, -er, -erna
+hamn, -en, -ar, -arna	Hafen
+Hafen	hamn, -en, -ar, -arna
+centralstation, -en, -er, -erna	Hauptbahnhof
+Hauptbahnhof	centralstation, -en, -er, -erna
+tågförbindelse, -n, -r, -rna	Zugverbindung
+Zugverbindung	tågförbindelse, -n, -r, -rna
+men	aber
+aber	men
+skog, -en, -ar, -arna	Wald
+Wald	skog, -en, -ar, -arna
+modern, -t, -a	modern
+modern	modern, -t, -a
+din, ditt, dina	dein, deine
+dein, deine	din, ditt, dina
+min, mitt, mina	mein, meine
+mein, meine	min, mitt, mina
+norra	nördlich
+nördlich	norra
+södra	südlich
+südlich	södra
+västra	westlich
+westlich	västra
+östra	östlich
+östlich	östra
+den	er, sie, es
+er, sie, es	den
+mittemot	gegenüber
+gegenüber	mittemot
+personlig, -t, -a	persönlich
+persönlich	personlig, -t, -a
+service, -n	Service
+Service	service, -n
+information, -en, -er, -erna	Information
+Information	information, -en, -er, -erna
+om (Präposition)	über (Präposition)
+über (Präposition)	om (Präposition)
+sightseeing, -en, -ar, -arna	Sightseeing
+Sightseeing	sightseeing, -en, -ar, -arna
+utflykt, -en, -er, -erna	Ausflug
+Ausflug	utflykt, -en, -er, -erna
+(att) boka, -r, -de, -t	buchen
+buchen	(att) boka, -r, -de, -t
+samt	und, sowie
+und, sowie	samt
+Stockholmskortet	Stockholmkarte
+Stockholmkarte	Stockholmskortet
+evenmang, -et, --, -en	Veranstaltung
+Veranstaltung	evenmang, -et, --, -en
+biljet, -en, -er, -erna	Eintrittskarte
+Eintrittskarte	biljet, -en, -er, -erna
+(att) hyr/a, --, -de, -t	mieten
+mieten	(att) hyr/a, --, -de, -t
+Vad finns det för ...?	Welch/er, -e, -es, -e ... gibt es?
+Welch/er, -e, -es, -e ... gibt es?	Vad finns det för ...?
+(att) rekommendera, -r, -de, -t	empfehlen
+empfehlen	(att) rekommendera, -r, -de, -t
+över (Adverb/Präposition)	über, von
+über, von	över (Adverb/Präposition)
+guidad visning	Führung
+Führung	guidad visning
+utflyktsmål, -et, --, -en	Ausflugsziel
+Ausflugsziel	utflyktsmål, -et, --, -en
+annons, -en, -er, -erna	Anzeige
+Anzeige	annons, -en, -er, -erna
+(att) titta, -r, -de, -t	schauen, ansehen
+schauen, ansehen	(att) titta, -r, -de, -t
+(att) koppla, -r, -de, -t av	entspannen
+entspannen	(att) koppla, -r, -de, -t av
+kaffebön/a, -an, -or, -orna	Kaffeebohne
+Kaffeebohne	kaffebön/a, -an, -or, -orna
+charmig, -t, -a	bezaubernd, reizend
+bezaubernd, reizend	charmig, -t, -a
+perfekt, --, -a	perfekt
+perfekt	perfekt, --, -a
+ställe, -t, -n, -na	Platz, Ort
+Platz, Ort	ställe, -t, -n, -na
+besök, -et, --, -en	Besuch
+Besuch	besök, -et, --, -en
+värld, -en, -ar, -arna	Welt
+Welt	värld, -en, -ar, -arna
+friluftsmuse/um, -et, -er, -erna	Freiluftmuseum
+Freiluftmuseum	friluftsmuse/um, -et, -er, -erna
+världens äldsta friluftsmuseum	das älteste Freiluftmuseum der Welt
+das älteste Freiluftmuseum der Welt	världens äldsta friluftsmuseum
+både ... och	sowohl ... als auch
+sowohl ... als auch	både ... och
+stockholmar/e, -en, -e, -arna	Stockholmer (Einwohner)
+Stockholmer (Einwohner)	stockholmar/e, -en, -e, -arna
+besökar/e, -en, -e, -arna	Besucher
+Besucher	besökar/e, -en, -e, -arna
+hit	hierher
+hierher	hit
+historisk, -t, -a	historisch
+historisch	historisk, -t, -a
+miniatyr, -en, -er, -erna	Miniatur
+Miniatur	miniatyr, -en, -er, -erna
+egen, eget, egna	eigen
+eigen	egen, eget, egna
+picknick, -en, -ar, -arna	Picknick
+Picknick	picknick, -en, -ar, -arna
+butik, -en, -er, -erna	Geschäft, Laden
+Geschäft, Laden	butik, -en, -er, -erna
+spännande	spannend
+spannend	spännande
+sortiment, -et, --, -en	Sortiment, Auswahl
+Sortiment, Auswahl	sortiment, -et, --, -en
+olika	verschiedene
+verschiedene	olika
+pris, -et, -er, -erna	Preis
+Preis	pris, -et, -er, -erna
+foto, -t, -n, -na	Foto
+Foto	foto, -t, -n, -na
+vykort, -et, --, -en	Ansichtskarte
+Ansichtskarte	vykort, -et, --, -en
+present, -en, -er, -erna	Geschenk
+Geschenk	present, -en, -er, -erna
+(att) sälj/a, -er, sålde, sålt	verkaufen
+verkaufen	(att) sälj/a, -er, sålde, sålt
+katalog, -en, -er, -erna	Katalog
+Katalog	katalog, -en, -er, -erna
+(att) för/låta, -låter, -lät, -låtit	entschuldigen, verzeihen
+entschuldigen, verzeihen	(att) för/låta, -låter, -lät, -låtit
+(att) ursäkta, -r, -de, -t	entschuldigen
+entschuldigen	(att) ursäkta, -r, -de, -t
+Kan du säga mig?	Kannst du mir sagen?
+Kannst du mir sagen?	Kan du säga mig?
+(att) gå, -r, gick, gått	gehen
+gehen	(att) gå, -r, gick, gått
+rackt fram	geradeaus
+geradeaus	rackt fram
+sedan	dann, anschließend
+dann, anschließend	sedan
+ta till höger	rechts abbiegen
+rechts abbiegen	ta till höger
+(till) höger	(nach) rechts
+(nach) rechts	(till) höger
+andra	der, die, das zweite
+der, die, das zweite	andra
+tredje	der, die, das dritte
+der, die, das dritte	tredje
+brevid	neben
+neben	brevid
+Tack så mycket.	Vielen Dank.
+Vielen Dank.	Tack så mycket.
+hur	wie
+wie	hur
+(till) vänster	(nach) links
+(nach) links	(till) vänster
+(att) fort/sätta, -sätter, -satte, -satt	fortsetzen, weitergehen
+fortsetzen, weitergehen	(att) fort/sätta, -sätter, -satte, -satt
+trafikljus, -et, --, -en	Verkehrsampel
+Verkehrsampel	trafikljus, -et, --, -en
+Ett ögonblick!	Einen Augenblick!
+Einen Augenblick!	Ett ögonblick!
+Just precis.	Genau.
+Genau.	Just precis.
+Tack ska du ha.	Vielen Dank.
+Vielen Dank.	Tack ska du ha.
+i närheten	in der Nähe
+in der Nähe	i närheten
+(att) kör/a, --, -de, -t	fahren
+fahren	(att) kör/a, --, -de, -t
+först	zuerst
+zuerst	först
+där borta	dort drüben
+dort drüben	där borta
+borta	fort, weg
+fort, weg	borta
+korsning, -en, -ar, -arna	Kreuzung
+Kreuzung	korsning, -en, -ar, -arna
+(att) för/stå, -står, -stod, -stått	verstehen
+verstehen	(att) för/stå, -står, -stod, -stått
+en gång till	noch einmal
+noch einmal	en gång till
+efter	nach
+nach	efter
+(att) beskriv/a, -er, beskrev, -it	beschreiben
+beschreiben	(att) beskriv/a, -er, beskrev, -it
+hem, -met, --, -men	Haus, Heim
+Haus, Heim	hem, -met, --, -men
+adress, -en, -er, -erna	Adresse
+Adresse	adress, -en, -er, -erna
+postnum/mer, -ret, -mer, -merna	Postleitzahl
+Postleitzahl	postnum/mer, -ret, -mer, -merna
+Jag bor på Biskopsgatan.	Ich wohne in Biskopsgatan.
+Ich wohne in Biskopsgatan.	Jag bor på Biskopsgatan.
+på	(hier:) in
+(hier:) in	på
+Vad har du för postnummer?	Was ist deine Postleitzahl?
+Was ist deine Postleitzahl?	Vad har du för postnummer?
+bokstav, -en, -stäver, -stäverna	Buchstabe
+Buchstabe	bokstav, -en, -stäver, -stäverna
+(att) uttala, -r, -de, -t	aussprechen
+aussprechen	(att) uttala, -r, -de, -t
+mynt, -et, --, -en	Münze
+Münze	mynt, -et, --, -en
+från	ab
+ab	från
+kalvkött, -et, --, -en	Kalbfleisch
+Kalbfleisch	kalvkött, -et, --, -en
+dillsås, -en, -er, -erna	Dillsauce
+Dillsauce	dillsås, -en, -er, -erna
+grönsakssopp/a, -an, -or, -orna	Gemüsesuppe
+Gemüsesuppe	grönsakssopp/a, -an, -or, -orna
+pannkak/a, -an, -or	Pfannkuchen
+Pfannkuchen	pannkak/a, -an, -or
+pannbiff, -en, -ar, -arna	Hackbeef
+Hackbeef	pannbiff, -en, -ar, -arna
+lök, -en, -ar, -arna	Zwiebel
+Zwiebel	lök, -en, -ar, -arna
+pytt i pann/a, -an, -or, -orna	traditionelles Resteessen
+traditionelles Resteessen	pytt i pann/a, -an, -or, -orna
+rödbet/a, -an, -or, -orna	Rote Bete
+Rote Bete	rödbet/a, -an, -or, -orna
+stekt, --, -a	gebraten
+gebraten	stekt, --, -a
+fisk, -en, -ar, -arna	Fisch
+Fisch	fisk, -en, -ar, -arna
+grönsak, -en, -er, -erna	Gemüse
+Gemüse	grönsak, -en, -er, -erna
+stäng, stängt, stängda	geschlossen
+geschlossen	stäng, stängt, stängda
+påtår, -en, -ar, -arna	"zweites Einschenken (""free refills"")"
+"zweites Einschenken (""free refills"")"	påtår, -en, -ar, -arna
+Vad har du för en rätt?	Was für ein Gericht hast du?
+Was für ein Gericht hast du?	Vad har du för en rätt?
+på onsdag	am Mittwoch
+am Mittwoch	på onsdag
+falukorv, -en, -ar, -arna	eine Art Fleischwurst
+eine Art Fleischwurst	falukorv, -en, -ar, -arna
+meny, -n, -er, -erna	Speisekarte, Menü
+Speisekarte, Menü	meny, -n, -er, -erna
+(att) beställ/a, -er, -de, -t	bestellen
+bestellen	(att) beställ/a, -er, -de, -t
+gäst, -en, -er, -erna	Gast
+Gast	gäst, -en, -er, -erna
+Kan jag få ...	Ich hätte gerne ...
+Ich hätte gerne ...	Kan jag få ...
+Jag vill ha ...	Ich hätte gern ... / Ich möchte ...
+Ich hätte gern ... / Ich möchte ...	Jag vill ha ...
+sopp/a, -n, -or, -orna	Suppe
+Suppe	sopp/a, -n, -or, -orna
+lättöl, -en	"ein Leichtbier (cave: nur in der Bedeutung ""eine Portion Leichtbier"" ein en-Wort!)"
+"ein Leichtbier (cave: nur in der Bedeutung ""eine Portion Leichtbier"" ein en-Wort!)"	lättöl, -en
+ris, -et, --, -en	Reis
+Reis	ris, -et, --, -en
+currysås, -en, -er, -erna	Currysauce
+Currysauce	currysås, -en, -er, -erna
+past/a, -an, -or, -orna	Nudel
+Nudel	past/a, -an, -or, -orna
+köttfärs, -en, -er, -erna	Hackfleisch
+Hackfleisch	köttfärs, -en, -er, -erna
+appeljuice, -n, -r, -rna	Apfelsaft
+Apfelsaft	appeljuice, -n, -r, -rna
+(att) betala, -r, -de, -t	bezahlen
+bezahlen	(att) betala, -r, -de, -t
+grilla/d, -t, -de	gegrillt
+gegrillt	grilla/d, -t, -de
+lingon, -et, --, -en	Preiselbeere
+Preiselbeere	lingon, -et, --, -en
+lax, -en, -ar, -arna	Lachs
+Lachs	lax, -en, -ar, -arna
+majonnäs, -en, -er, -erna	Mayonnaise
+Mayonnaise	majonnäs, -en, -er, -erna
+vatt/en, -net	Wasser
+Wasser	vatt/en, -net
+lektion, -en, -er, -erna	Unterrichtsstunde, Lektion
+Unterrichtsstunde, Lektion	lektion, -en, -er, -erna
+skön, -t, -a	schön, hübsch
+schön, hübsch	skön, -t, -a
+(att) sköt/a, -er, -te, -t	pflegen
+pflegen	(att) sköt/a, -er, -te, -t
+(sjö)sjuk, -t, -a	(see)krank
+(see)krank	(sjö)sjuk, -t, -a
+sjöman, -nen, --, -nen	Seemann
+Seemann	sjöman, -nen, --, -nen
+bördiga åkrar	fruchtbare Äcker
+fruchtbare Äcker	bördiga åkrar
+smörgåsbord, -et, --, -en	Buffet
+Buffet	smörgåsbord, -et, --, -en
+sill, -en, -ar, -arna	Hering
+Hering	sill, -en, -ar, -arna
+grava/d, -t, -de	gebeizt
+gebeizt	grava/d, -t, -de
+skaldjur, -et, --, -en	Krustentier
+Krustentier	skaldjur, -et, --, -en
+Janssons frestelse	"""Janssons Versuchung"" (Auflauf aus Kartoffeln, Zwiebeln und Anchovis)"
+"""Janssons Versuchung"" (Auflauf aus Kartoffeln, Zwiebeln und Anchovis)"	Janssons frestelse
+fläsk, -et	Speck
+Speck	fläsk, -et
+hemlaga/d, -t, -de	hausgemacht, selbstgemacht
+hausgemacht, selbstgemacht	hemlaga/d, -t, -de
